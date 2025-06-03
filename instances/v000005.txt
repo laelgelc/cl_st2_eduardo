@@ -1,0 +1,7 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="113" form="simples" base="simples" postag="ADJ" morf="M S" extra="n" head="0" deprel="<SC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="208" form="críticas" base="crítico" postag="ADJ" morf="F P" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="18" form="últimos" base="último" postag="ADJ" morf="M P" extra="NUM-ord" head="0" deprel=">N"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="190" form="certas" base="certo" postag="ADJ" morf="F P" extra="jh" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="10" form="certos" base="certo" postag="ADJ" morf="M P" extra="jh" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="3" form="últimos" base="último" postag="ADJ" morf="M P" extra="NUM-ord" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="306" form="fundamental" base="fundamental" postag="ADJ" morf="M S" extra="nh" head="0" deprel="<SC"/>

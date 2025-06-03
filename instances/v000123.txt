@@ -1,0 +1,7 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="173" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="381" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="233" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="272" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="188" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="309" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="322" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>

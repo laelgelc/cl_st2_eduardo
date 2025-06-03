@@ -1,0 +1,3 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="333" form="eles" base="eles" postag="PERS" morf="M 3P NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="371" form="eles" base="eles" postag="PERS" morf="M 3P NOM" extra="--" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="295" form="eles" base="eles" postag="PERS" morf="M 3P NOM" extra="--" head="0" deprel="SUBJ>"/>

@@ -1,0 +1,6 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="171" form="grandes" base="grande" postag="ADJ" morf="F P" extra="--" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="387" form="curta" base="curto" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<PRED"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="127" form="grandes" base="grande" postag="ADJ" morf="M P" extra="jh" head="0" deprel=">N"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="326" form="curta" base="curto" postag="ADJ" morf="F S" extra="nh" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="127" form="grande" base="grande" postag="ADJ" morf="M S" extra="--" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="273" form="amplo" base="amplo" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>

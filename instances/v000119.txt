@@ -1,0 +1,2 @@
+t000002 <word id="31" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>
+t000002 <word id="57" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>

@@ -1,0 +1,4 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="234" form="prender" base="prender" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 mv np-close" head="0" deprel="FS-N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="238" form="censurar" base="censurar" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 vH fmc mv np-close" head="0" deprel="FS-N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="287" form="raiar" base="raiar" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 vN fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="323" form="quiser" base="querer" postag="V" morf="FUT 3S SUBJ VFIN" extra="vH mv" head="0" deprel="FS-ADVL>"/>

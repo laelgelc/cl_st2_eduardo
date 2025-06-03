@@ -1,0 +1,25 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="98" form="diferentes" base="diferentes" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="109" form="diferentes" base="diferentes" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="116" form="Algumas" base="algum" postag="DET" morf="F P" extra="* quant" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="61" form="mais_de" base="mais_de" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="74" form="todos" base="todo" postag="DET" morf="M P" extra="quant np-close" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="90" form="mais_de" base="mais_de" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="179" form="Cada" base="cada" postag="DET" morf="M/F S" extra="* quant" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="241" form="Algumas" base="algum" postag="DET" morf="F P" extra="* quant" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="259" form="mais" base="mais" postag="ADV" morf="--" extra="quant KOMP" head="0" deprel=">A"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="314" form="muito" base="muito" postag="DET" morf="M S" extra="quant" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="317" form="certos" base="certos" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="404" form="nenhuma" base="nenhum" postag="DET" morf="F S" extra="quant" head="0" deprel=">N"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="14" form="muito" base="muito" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="74" form="mais" base="mais" postag="ADV" morf="--" extra="quant KOMP" head="0" deprel=">A"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="258" form="mais" base="muito" postag="DET" morf="F P" extra="quant KOMP" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="23" form="diferentes" base="diferentes" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="113" form="diferentes" base="diferentes" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="29" form="tanta" base="tanto" postag="DET" morf="F S" extra="quant KOMP" head="0" deprel=">N"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="70" form="muito" base="muito" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="162" form="muito" base="muito" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="163" form="bem" base="bem" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="208" form="tudo_isso" base="tudo_isso" postag="SPEC" morf="M S" extra="quant" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="222" form="mais" base="muito" postag="DET" morf="F S" extra="quant KOMP" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="264" form="diferentes" base="diferentes" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="272" form="mais" base="mais" postag="ADV" morf="--" extra="quant KOMP" head="0" deprel=">A"/>

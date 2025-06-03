@@ -1,0 +1,2 @@
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="215" form="pensarmos" base="pensar" postag="V" morf="INF 1P" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="209" form="ridicularizar" base="ridicularizar" postag="V" morf="INF 0/1/3S" extra="vH mv" head="0" deprel="ICL-P<"/>

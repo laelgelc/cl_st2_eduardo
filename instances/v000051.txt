@@ -1,0 +1,33 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="70" form="supremotribunal" base="supremotribunal" postag="ADJ" morf="M/F S" extra="jh" head="0" deprel="<ACC"/>
+t000001 <word id="71" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000001 <word id="72" form="ministros" base="ministro" postag="N" morf="M P" extra="Hprof" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="131" form="institucionais" base="institucional" postag="ADJ" morf="F P" extra="nh np-close" head="0" deprel="N<"/>
+t000001 <word id="132" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000001 <word id="133" form="debates" base="debate" postag="N" morf="M P" extra="talk" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="206" form="individuais" base="individual" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+t000002 <word id="207" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000002 <word id="208" form="críticas" base="crítico" postag="ADJ" morf="F P" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="272" form="patrióticos" base="patriótico" postag="ADJ" morf="M P" extra="np-long" head="0" deprel="N<"/>
+t000002 <word id="273" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000002 <word id="274" form="nacionais" base="nacional" postag="ADJ" morf="M/F P" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="32" form="linguísticos" base="lingüístico" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+t000004 <word id="33" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="34" form="visuais" base="visual" postag="ADJ" morf="M/F P" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="85" form="boicoteachina" base="boicoteachino" postag="ADJ" morf="F S" extra="DERS jh" head="0" deprel="<ACC"/>
+t000004 <word id="86" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="87" form="wuhanvírus" base="wuhanvíru" postag="N" morf="M P" extra="asarg heur foreign" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="102" form="linguística" base="lingüístico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000004 <word id="103" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="104" form="visual" base="visual" postag="ADJ" morf="M/F S" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="154" form="imagens" base="imagem" postag="N" morf="F P" extra="sem-c" head="0" deprel="P<"/>
+t000004 <word id="155" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="156" form="legendas" base="legenda" postag="N" morf="F P" extra="cc-r" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="315" form="política" base="política" postag="N" morf="F S" extra="sem-c" head="0" deprel="P<"/>
+t000005 <word id="316" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="317" form="redes" base="rede" postag="N" morf="F P" extra="Lh HH" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="141" form="lematização" base="lema" postag="N" morf="F S" extra="asarg DERS" head="0" deprel="P<"/>
+t000006 <word id="142" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000006 <word id="143" form="análise" base="análise" postag="N" morf="F S" extra="asarg act-d" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="190" form="jovens" base="jovem" postag="ADJ" morf="M/F P" extra="jh" head="0" deprel="P<"/>
+t000006 <word id="191" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000006 <word id="192" form="crianças" base="criança" postag="N" morf="F P" extra="H" head="0" deprel="P<"/>

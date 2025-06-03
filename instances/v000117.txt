@@ -1,0 +1,8 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="49" form="Nossa" base="nosso" postag="DET" morf="F S" extra="* poss 1P" head="0" deprel=">N"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="143" form="nossa" base="nosso" postag="DET" morf="F S" extra="poss 1P" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="415" form="nosso" base="nosso" postag="DET" morf="M S" extra="poss 1P" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="27" form="Nossa" base="nosso" postag="DET" morf="F S" extra="* poss 1P" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="46" form="sua" base="seu" postag="DET" morf="F S" extra="si poss 3S" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="277" form="nossa" base="nosso" postag="DET" morf="F S" extra="poss 1P" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="79" form="sua" base="seu" postag="DET" morf="F S" extra="poss 3S" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="92" form="nossa" base="nosso" postag="DET" morf="F S" extra="poss 1P" head="0" deprel=">N"/>

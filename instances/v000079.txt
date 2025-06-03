@@ -1,0 +1,4 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="17" form="Será" base="ser" postag="V" morf="FUT 3S IND VFIN" extra="* fmc mv" head="0" deprel="FS-QUE"/>
+t000002 <word id="18" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="239" form="mostra" base="mostrar" postag="V" morf="PR 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000005 <word id="240" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>

@@ -1,0 +1,14 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="269" form="termos" base="termo" postag="N" morf="M P" extra="act-s" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="328" form="termos" base="termo" postag="N" morf="M P" extra="con" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="10" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="19" form="anos" base="ano" postag="N" morf="M P" extra="per" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="50" form="tempo" base="tempo" postag="N" morf="M S" extra="am" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="54" form="momentos" base="momento" postag="N" morf="M P" extra="dur" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="66" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="95" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="137" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="PRED>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="157" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="65" form="termo" base="termo" postag="N" morf="M S" extra="con temp" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="297" form="tempos" base="tempo" postag="N" morf="M P" extra="per" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="4" form="anos" base="ano" postag="N" morf="M P" extra="per" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="128" form="volume" base="volume" postag="N" morf="M S" extra="f-q" head="0" deprel="<ACC"/>

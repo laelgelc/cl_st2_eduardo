@@ -1,0 +1,52 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="44" form="retratadas" base="retratar" postag="V" morf="PCP F P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="62" form="coletados" base="coletar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<PRED"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="104" form="mencionado" base="mencionar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="164" form="percebidas" base="perceber" postag="V" morf="PCP F P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="183" form="utilizados" base="utilizar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="197" form="Obrigado" base="obrigar" postag="V" morf="PCP M S" extra="* jh" head="0" deprel="NPHR"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="67" form="postados" base="postar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<PRED"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="77" form="relacionadas" base="relacionar" postag="V" morf="PCP F P" extra="jh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="107" form="complicado" base="complicar" postag="V" morf="PCP M S" extra="--" head="0" deprel="<SC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="260" form="ligado" base="ligar" postag="V" morf="PCP M S" extra="mv np-close" head="0" deprel="ICL-N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="297" form="Armadas" base="armar" postag="V" morf="PCP F P" extra="prop * vH np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="320" form="tratados" base="tratar" postag="V" morf="PCP M P" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="352" form="baseada" base="basear" postag="V" morf="PCP F S" extra="jh mv" head="0" deprel="ICL-N<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="15" form="conhecido" base="conhecer" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="27" form="criados" base="criar" postag="V" morf="PCP M P" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="29" form="compartilhados" base="compartilhar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="70" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="99" form="utilizado" base="utilizar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="117" form="estudadas" base="estudar" postag="V" morf="PCP F P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="123" form="publicadas" base="publicar" postag="V" morf="PCP F P" extra="vH np-close" head="0" deprel="N<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="159" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH jh" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="227" form="usada" base="usar" postag="V" morf="PCP F S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="36" form="usados" base="usar" postag="V" morf="PCP M P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="65" form="publicados" base="publicar" postag="V" morf="PCP M P" extra="vH np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="91" form="utilizada" base="utilizar" postag="V" morf="PCP F S" extra="vH np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="117" form="juntos" base="juntar" postag="V" morf="PCP M P" extra="jh vH" head="0" deprel="<PRED"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="133" form="relacionado" base="relacionar" postag="V" morf="PCP M S" extra="n jh" head="0" deprel="NPHR"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="157" form="compartilhadas" base="compartilhar" postag="V" morf="PCP F P" extra="vH np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="194" form="suposta" base="supor" postag="V" morf="PCP F S" extra="jh vH" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="206" form="determinadas" base="determinar" postag="V" morf="PCP F P" extra="clb jh vH" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="222" form="supostas" base="supor" postag="V" morf="PCP F P" extra="jh vH" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="249" form="determinadas" base="determinar" postag="V" morf="PCP F P" extra="jh vH" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="266" form="moldadas" base="moldar" postag="V" morf="PCP F P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="287" form="Obrigado" base="obrigar" postag="V" morf="PCP M S" extra="* jh" head="0" deprel="NPHR"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="6" form="chamado" base="chamar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="43" form="usada" base="usar" postag="V" morf="PCP F S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="67" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH jh mv np-close" head="0" deprel="ICL-N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="78" form="associado" base="associar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="87" form="feitas" base="fazer" postag="V" morf="PCP F P" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="108" form="ampliado" base="ampliar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="110" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="164" form="definidas" base="definir" postag="V" morf="PCP F P" extra="jh vH np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="210" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="7" form="observado" base="observar" postag="V" morf="PCP" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="55" form="registrado" base="registrar" postag="V" morf="PCP" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="85" form="debatidos" base="debater" postag="V" morf="PCP M P" extra="vH mv np-close" head="0" deprel="ICL-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="109" form="chamada" base="chamar" postag="V" morf="PCP F S" extra="vH mv np-close" head="0" deprel="ICL-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="116" form="baseada" base="basear" postag="V" morf="PCP F S" extra="jh mv np-close" head="0" deprel="ICL-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="236" form="aprofundada" base="aprofundar" postag="V" morf="PCP F S" extra="vH np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="248" form="articulados" base="articular" postag="V" morf="PCP M P" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="250" form="reforçados" base="reforçar" postag="V" morf="PCP M P" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="312" form="informadas" base="informar" postag="V" morf="PCP F P" extra="jh vH mv np-close" head="0" deprel="ICL-N<"/>

@@ -1,0 +1,2 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="127" form="enquanto" base="enquanto" postag="ADV" morf="--" extra="clb clb-fs rel ks" head="0" deprel="ADVL>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="75" form="quando" base="quando" postag="ADV" morf="--" extra="clb clb-fs rel ks" head="0" deprel="ADVL>"/>

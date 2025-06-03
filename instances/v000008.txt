@@ -1,0 +1,12 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="113" form="simples" base="simples" postag="ADJ" morf="M S" extra="n" head="0" deprel="<SC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="138" form="comuns" base="comum" postag="ADJ" morf="M P" extra="--" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="6" form="fake" base="fake" postag="ADJ" morf="M/F S" extra="jh" head="0" deprel="<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="96" form="fake" base="fake" postag="ADJ" morf="M/F S" extra="jh" head="0" deprel="<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="104" form="X" base="X" postag="ADJ" morf="M/F S" extra="prop * NUM-ord jh" head="0" deprel="<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="138" form="fake" base="fake" postag="ADJ" morf="M/F S" extra="--" head="0" deprel="<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="152" form="seguinte" base="seguinte" postag="ADJ" morf="M S" extra="n nh" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="213" form="essencial" base="essencial" postag="ADJ" morf="M S" extra="nh" head="0" deprel="<SC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="128" form="novo" base="novo" postag="ADJ" morf="M S" extra="jh" head="0" deprel="<SC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="245" form="neutras" base="neutro" postag="ADJ" morf="F P" extra="jh" head="0" deprel="<SC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="21" form="associado" base="associado" postag="ADJ" morf="M S" extra="--" head="0" deprel="<SC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="306" form="fundamental" base="fundamental" postag="ADJ" morf="M S" extra="nh" head="0" deprel="<SC"/>

@@ -1,0 +1,14 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="37" form="brasileiros" base="brasileiro" postag="N" morf="M P" extra="Hnat" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="72" form="ministros" base="ministro" postag="N" morf="M P" extra="Hprof" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="8" form="pessoas" base="pessoa" postag="N" morf="F P" extra="H" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="31" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="57" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="170" form="pessoa" base="pessoa" postag="N" morf="F S" extra="H" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="259" form="pessoas" base="pessoa" postag="N" morf="F P" extra="H" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="148" form="usuários" base="usuário" postag="N" morf="M P" extra="Hattr" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="172" form="usuários" base="usuário" postag="N" morf="M P" extra="Hattr" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="231" form="especialistas" base="especialista" postag="N" morf="M P" extra="Hprof" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="251" form="pessoa" base="pessoa" postag="N" morf="F S" extra="H" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="192" form="crianças" base="criança" postag="N" morf="F P" extra="H" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="253" form="usuários" base="usuário" postag="N" morf="M P" extra="Hattr" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="354" form="pessoas" base="pessoa" postag="N" morf="F P" extra="H" head="0" deprel="SUBJ>"/>

@@ -1,0 +1,7 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="56" form="analisando" base="analisar" postag="V" morf="GER" extra="clb vH mv" head="0" deprel="ICL-<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="75" form="contendo" base="conter" postag="V" morf="GER" extra="clb mv" head="0" deprel="ICL-<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="5" form="sendo" base="ser" postag="V" morf="GER" extra="clb aux" head="0" deprel="ICL-<OC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="337" form="entendendo" base="entender" postag="V" morf="GER" extra="vH mv" head="0" deprel="ICL-<OC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="136" form="aplicando" base="aplicar" postag="V" morf="GER" extra="clb mv" head="0" deprel="ICL-<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="243" form="revelando" base="revelar" postag="V" morf="GER" extra="mv" head="0" deprel="ICL-<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="293" form="destacando" base="destacar" postag="V" morf="GER" extra="mv" head="0" deprel="ICL-<ADVL"/>

@@ -1,0 +1,108 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="64" form="hashtags" base="hashtag" postag="N" morf="M P" extra="heur foreign" head="0" deprel="P<"/>
+t000001 <word id="65" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000001 <word id="66" form="covid19" base="covid19" postag="N" morf="M S" extra="asarg heur" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="133" form="debates" base="debate" postag="N" morf="M P" extra="talk" head="0" deprel="<ACC"/>
+t000001 <word id="134" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000001 <word id="135" form="constitucionalidade" base="constitucionalidade" postag="N" morf="F S" extra="percep-f" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="121" form="padrões" base="padrão" postag="N" morf="M P" extra="ac" head="0" deprel="<ACC"/>
+t000002 <word id="122" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="123" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="126" form="tipos" base="tipo" postag="N" morf="M P" extra="H meta" head="0" deprel="SUBJ>"/>
+t000002 <word id="127" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="128" form="palavras" base="palavra" postag="N" morf="F P" extra="act-s" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="133" form="estilos" base="estilo" postag="N" morf="M P" extra="ac-cat" head="0" deprel="SUBJ>"/>
+t000002 <word id="134" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="135" form="discurso" base="discurso" postag="N" morf="M S" extra="sem-s" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="156" form="grupos" base="grupo" postag="N" morf="M P" extra="HH" head="0" deprel="<ACC"/>
+t000002 <word id="157" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="158" form="palavras" base="palavra" postag="N" morf="F P" extra="ac-cat" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="162" form="juntas" base="junta" postag="N" morf="F P" extra="HH" head="0" deprel="<PRED"/>
+t000002 <word id="163" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="164" form="contextos" base="contexto" postag="N" morf="M P" extra="Labs" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="175" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="P<"/>
+t000002 <word id="176" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="177" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="199" form="conjunto" base="conjunto" postag="N" morf="M S" extra="coll" head="0" deprel="<SUBJ"/>
+t000002 <word id="200" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="201" form="tweets" base="tweet" postag="N" morf="M P" extra="heur foreign" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="203" form="foco" base="foco" postag="N" morf="M S" extra="Labs" head="0" deprel="P<"/>
+t000002 <word id="204" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="205" form="direitos" base="direito" postag="N" morf="M P" extra="mon" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="267" form="uso" base="uso" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000002 <word id="268" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 <word id="269" form="termos" base="termo" postag="N" morf="M P" extra="act-s" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="31" form="aparência" base="aparência" postag="N" morf="F S" extra="percep-f" head="0" deprel="P<"/>
+t000003 <word id="32" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="33" form="jornalismo" base="jornalismo" postag="N" morf="M S" extra="domain" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="54" form="momentos" base="momento" postag="N" morf="M P" extra="dur" head="0" deprel="P<"/>
+t000003 <word id="55" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="56" form="crise" base="crise" postag="N" morf="F S" extra="sit" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="87" form="pesquisa" base="pesquisa" postag="N" morf="F S" extra="act-d" head="0" deprel="<ACC"/>
+t000003 <word id="88" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="89" form="caráter" base="caráter" postag="N" morf="M S" extra="f-psych" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="162" form="forma" base="forma" postag="N" morf="F S" extra="asarg percep-f" head="0" deprel="P<"/>
+t000003 <word id="163" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="164" form="acusação" base="acusação" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="176" form="oposição" base="oposição" postag="N" morf="F S" extra="HH" head="0" deprel="<SUBJ"/>
+t000003 <word id="177" form="entre" base="entre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="178" form="grupos" base="grupo" postag="N" morf="M P" extra="HH" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="204" form="ferramenta" base="ferramenta" postag="N" morf="F S" extra="tool" head="0" deprel="<OC"/>
+t000003 <word id="205" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="206" form="disputa" base="disputa" postag="N" morf="F S" extra="talk fight" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="238" form="tipo" base="tipo" postag="N" morf="M S" extra="H meta" head="0" deprel="P<"/>
+t000003 <word id="239" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 <word id="240" form="conteúdo" base="conteúdo" postag="N" morf="M S" extra="amount am" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="99" form="padrões" base="padrão" postag="N" morf="M P" extra="ac" head="0" deprel="<ACC"/>
+t000004 <word id="100" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 <word id="101" form="variação" base="variação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="128" form="conjuntos" base="conjunto" postag="N" morf="M P" extra="coll" head="0" deprel="<SUBJ"/>
+t000004 <word id="129" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 <word id="130" form="variação" base="variação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="168" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000004 <word id="169" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 <word id="170" form="perfis" base="perfil" postag="N" morf="M P" extra="f-an" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="188" form="oposição" base="oposição" postag="N" morf="F S" extra="asarg Labs act-s am" head="0" deprel="P<"/>
+t000004 <word id="189" form="entre" base="entre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 <word id="190" form="tuítes" base="tuíte" postag="N" morf="F P" extra="DERS" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="113" form="forma" base="forma" postag="N" morf="F S" extra="asarg percep-f" head="0" deprel="P<"/>
+t000005 <word id="114" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 <word id="115" form="acusação" base="acusação" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="123" form="tipo" base="tipo" postag="N" morf="M S" extra="H meta" head="0" deprel="SUBJ>"/>
+t000005 <word id="124" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 <word id="125" form="uso" base="uso" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="157" form="criação" base="criação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000005 <word id="158" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 <word id="159" form="grupos" base="grupo" postag="N" morf="M P" extra="HH" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="297" form="tempos" base="tempo" postag="N" morf="M P" extra="per" head="0" deprel="P<"/>
+t000005 <word id="298" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 <word id="299" form="crise" base="crise" postag="N" morf="F S" extra="sit" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="34" form="ressurgimento" base="ressurgimento" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000006 <word id="35" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="36" form="doenças" base="doença" postag="N" morf="F P" extra="sick" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="98" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="SUBJ>"/>
+t000006 <word id="99" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="100" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="128" form="volume" base="volume" postag="N" morf="M S" extra="f-q" head="0" deprel="<ACC"/>
+t000006 <word id="129" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="130" form="dados" base="dado" postag="N" morf="M P" extra="ac" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="137" form="técnicas" base="técnica" postag="N" morf="F P" extra="domain" head="0" deprel="<ACC"/>
+t000006 <word id="138" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000006 <word id="139" form="etiquetagem" base="etiquetagem" postag="N" morf="F S" extra="asarg act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="158" form="discussões" base="discussão" postag="N" morf="F P" extra="talk" head="0" deprel="P<"/>
+t000006 <word id="159" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="160" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="170" form="padrões" base="padrão" postag="N" morf="M P" extra="ac" head="0" deprel="P<"/>
+t000006 <word id="171" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="172" form="discurso" base="discurso" postag="N" morf="M S" extra="sem-s" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="203" form="vírus" base="vírus" postag="N" morf="M S" extra="Acell" head="0" deprel="P<"/>
+t000006 <word id="204" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 <word id="205" form="estudos" base="estudo" postag="N" morf="M P" extra="sem-r" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="225" form="relatos" base="relato" postag="N" morf="M P" extra="sem-r" head="0" deprel="P<"/>
+t000006 <word id="226" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="227" form="efeitos" base="efeito" postag="N" morf="M P" extra="ac" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="286" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="P<"/>
+t000006 <word id="287" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 <word id="288" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="309" form="desenvolvimento" base="desenvolvimento" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000006 <word id="310" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 <word id="311" form="estratégias" base="estratégia" postag="N" morf="F P" extra="sem-c" head="0" deprel="P<"/>

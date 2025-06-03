@@ -1,0 +1,3 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="93" form="principais" base="principal" postag="ADJ" morf="F P" extra="SUP" head="0" deprel=">N"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="95" form="principais" base="principal" postag="ADJ" morf="M P" extra="SUP jh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="173" form="principais" base="principal" postag="ADJ" morf="M P" extra="SUP jh np-long" head="0" deprel="N<"/>

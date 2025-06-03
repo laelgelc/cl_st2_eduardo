@@ -1,0 +1,5 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="109" form="mas" base="mas" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="368" form="mas" base="mas" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="35" form="mas" base="mas" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="130" form="mas" base="mas" postag="KC" morf="--" extra="clb" head="0" deprel="CO"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="183" form="mas" base="mas" postag="KC" morf="--" extra="clb" head="0" deprel="CO"/>

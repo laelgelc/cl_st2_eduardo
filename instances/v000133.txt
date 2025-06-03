@@ -1,0 +1,254 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="8" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="16" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="22" form="Durante" base="durante" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="25" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="36" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="45" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="53" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="63" form="por_meio_de" base="por_meio_de" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="65" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="74" form="Para" base="para" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="79" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="A<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="112" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="A<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="123" form="a" base="a" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="134" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="137" form="A" base="a" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="146" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="149" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="153" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="160" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="165" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="168" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="177" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="188" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="191" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="198" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PASS"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="4" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="10" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="12" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="26" form="Em" base="em" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="39" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="44" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="69" form="entre" base="entre" postag="PRP" morf="--" extra="prop1 np-close" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="78" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="89" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="97" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="114" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="122" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="127" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="134" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="140" form="Pra" base="para" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="154" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="157" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="163" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="173" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="176" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="181" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="187" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="A<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="194" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="200" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="202" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="204" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="209" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="217" form="como" base="como" postag="PRP" morf="--" extra="prd adv-rel" head="0" deprel="<OC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="245" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="261" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="266" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="268" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="277" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="291" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="299" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="308" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="315" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="323" form="No_caso_de" base="no_caso_de" postag="PRP" morf="--" extra="sam- *" head="0" deprel="ADVL>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="335" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="342" form="até" base="até" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="353" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="356" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="376" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="383" form="de" base="de" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="393" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="400" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="406" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="413" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="16" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="23" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="30" form="com" base="com" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="32" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="39" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="48" form="há" base="há" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="53" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="55" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="58" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="61" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="68" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="71" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="76" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="81" form="Em" base="em" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="88" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="100" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="105" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="110" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="A<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="124" form="entre" base="entre" postag="PRP" morf="--" extra="prop1" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="133" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="141" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="160" form="como" base="como" postag="PRP" morf="--" extra="prd adv-rel" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="163" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="165" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="174" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="177" form="entre" base="entre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="184" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="189" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="192" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="200" form="até" base="até" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="205" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="214" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="216" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="223" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="228" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="236" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="239" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="245" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="252" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="257" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="8" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="14" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="22" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="37" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="39" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="48" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="51" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="54" form="Para" base="para" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="62" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="66" form="entre" base="entre" postag="PRP" morf="--" extra="prop1 np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="78" form="a" base="a" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="82" form="como" base="como" postag="PRP" morf="--" extra="advl adv-rel" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="100" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="106" form="De" base="de" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="129" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="134" form="a" base="a" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="138" form="em" base="em" postag="PRP" morf="--" extra="sam- np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="143" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="146" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="152" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="ADVL>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="169" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="171" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="186" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="189" form="entre" base="entre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="196" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="204" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="213" form="Em" base="em" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="224" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="227" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="229" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="247" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="255" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="258" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="262" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="267" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="276" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="283" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="288" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PASS"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="7" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<SC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="11" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="15" form="durante" base="durante" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="19" form="De" base="de" postag="PRP" morf="--" extra="*" head="0" deprel="SA>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="44" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="47" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="50" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="54" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="68" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="72" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="76" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="79" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="88" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="101" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="111" form="como" base="como" postag="PRP" morf="--" extra="prd adv-rel" head="0" deprel="<SC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="114" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="118" form="Segundo" base="segundo" postag="PRP" morf="--" extra="com * adv-rel" head="0" deprel="ADVL>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="124" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="133" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="140" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="142" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="145" form="como" base="como" postag="PRP" morf="--" extra="advl adv-rel" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="149" form="Segundo" base="segundo" postag="PRP" morf="--" extra="com * adv-rel" head="0" deprel="ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="155" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="158" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="160" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="168" form="por_meio_de" base="por_meio_de" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="174" form="por" base="por" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="186" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="197" form="além_de" base="além_de" postag="PRP" morf="--" extra="sam-" head="0" deprel="<SA"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="211" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="233" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<OC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="252" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="271" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="275" form="entre" base="entre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="288" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="296" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="298" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="312" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="322" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="1" form="Em" base="em" postag="PRP" morf="--" extra="sam- *" head="0" deprel="ADVL>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="10" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="22" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="25" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="32" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="35" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="39" form="sob" base="sob" postag="PRP" morf="--" extra="--" head="0" deprel="<SA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="42" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="49" form="Desde" base="desde" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="58" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="61" form="a" base="a" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="69" form="durante" base="durante" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="72" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="88" form="de" base="de" postag="PRP" morf="--" extra="sam-" head="0" deprel="A<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="99" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="103" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="110" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<SC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="117" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="121" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="A<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="124" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="129" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="138" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="146" form="Com" base="com" postag="PRP" morf="--" extra="*" head="0" deprel="PRED>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="156" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="159" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="161" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="168" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="171" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="179" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="182" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="186" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="189" form="em" base="em" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="198" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="201" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="204" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="206" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="209" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="219" form="entre" base="entre" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="226" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="239" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="251" form="entre" base="entre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="254" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="260" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="263" form="com" base="com" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="266" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="274" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="281" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="284" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="287" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="289" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="307" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="310" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="313" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="316" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="326" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="333" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="336" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="345" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="351" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="357" form="a" base="a" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="361" form="sobre" base="sobre" postag="PRP" morf="--" extra="np-long" head="0" deprel="N<"/>

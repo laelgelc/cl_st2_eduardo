@@ -1,0 +1,44 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="156" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000001 <word id="157" form="como" base="como" postag="ADV" morf="--" extra="clb-fs rel ks" head="0" deprel="ADVL>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="200" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000001 <word id="201" form="até" base="até" postag="ADV" morf="--" extra="--" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="374" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+t000002 <word id="375" form="circulam" base="circular" postag="V" morf="PR 3P IND VFIN" extra="vN fmc mv" head="0" deprel="FS-<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="396" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000002 <word id="397" form="ative" base="ativar" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="28" form="ou" base="ou" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000003 <word id="29" form="compartilhados" base="compartilhar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="255" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000003 <word id="256" form="compartilhar" base="compartilhar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="18" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="19" form="influenciam" base="influenciar" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="58" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+t000004 <word id="59" form="analisamos" base="analisar" postag="V" morf="PR 1P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="118" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="119" form="estruturam" base="estruturar" postag="V" morf="PR 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="208" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="209" form="ridicularizar" base="ridicularizar" postag="V" morf="INF 0/1/3S" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="245" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+t000004 <word id="246" form="ajudam" base="ajudar" postag="V" morf="PR 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="290" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000004 <word id="291" form="até" base="até" postag="ADV" morf="--" extra="--" head="0" deprel=">N"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="25" form="E" base="e" postag="KC" morf="--" extra="*" head="0" deprel="CO"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="91" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="92" form="identificaram" base="identificar" postag="V" morf="PS/MQP 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="109" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="110" form="usado" base="usar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="172" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="173" form="especialmente" base="especialmente" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="220" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="221" form="atrair" base="atrair" postag="V" morf="INF" extra="mv" head="0" deprel="IMV"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="269" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+t000005 <word id="270" form="ajuda" base="ajudar" postag="V" morf="PR 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="300" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="301" form="como" base="como" postag="ADV" morf="--" extra="clb-fs rel ks" head="0" deprel="ADVL>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="329" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000005 <word id="330" form="compartilhe" base="compartilhar" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="213" form="E" base="e" postag="KC" morf="--" extra="*" head="0" deprel="CO"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="249" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000006 <word id="250" form="reforçados" base="reforçar" postag="V" morf="PCP M P" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="347" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+t000006 <word id="348" form="compartilhar" base="compartilhar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>

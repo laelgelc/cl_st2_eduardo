@@ -1,0 +1,417 @@
+	<word id="1" form="Você" base="você" postag="PERS" morf="M/F 3S NOM" extra="*" head="0" deprel="SUBJ>"/>
+	<word id="2" form="já" base="já" postag="ADV" morf="--" extra="--" head="0" deprel="ADVL"/>
+	<word id="3" form="parou" base="parar" postag="V" morf="PS 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-QUE"/>
+	<word id="4" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+	<word id="5" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+	<word id="6" form="como" base="como" postag="ADV" morf="--" extra="clb clb-fs interr" head="0" deprel="ADVL>"/>
+	<word id="7" form="as" base="o" postag="DET" morf="F P" extra="artd" head="0" deprel=">N"/>
+	<word id="8" form="pessoas" base="pessoa" postag="N" morf="F P" extra="H" head="0" deprel="SUBJ>"/>
+	<word id="9" form="falam" base="falar" postag="V" morf="PR 3P IND VFIN" extra="vH mv" head="0" deprel="FS-<ACC"/>
+	<word id="10" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+	<word id="11" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+	<word id="12" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="13" form="as" base="o" postag="DET" morf="F P" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="14" form="redes" base="rede" postag="N" morf="F P" extra="Lh" head="0" deprel="P<"/>
+	<word id="15" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="16" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="17" form="Será" base="ser" postag="V" morf="FUT 3S IND VFIN" extra="* fmc mv" head="0" deprel="FS-QUE"/>
+	<word id="18" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>
+	<word id="19" form="existem" base="existir" postag="V" morf="PR 3P IND VFIN" extra="mv" head="0" deprel="FS-<SC"/>
+	<word id="20" form="padrões" base="padrão" postag="N" morf="M P" extra="ac" head="0" deprel="<SUBJ"/>
+	<word id="21" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="22" form="Diferenças" base="diferença" postag="N" morf="F P" extra="* ac" head="0" deprel="NPHR"/>
+	<word id="23" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="24" form="Semelhanças" base="semelhança" postag="N" morf="F P" extra="* am" head="0" deprel="NPHR"/>
+	<word id="25" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="26" form="Em" base="em" postag="PRP" morf="--" extra="* sam-" head="0" deprel="ADVL>"/>
+	<word id="27" form="este" base="este" postag="DET" morf="M S" extra="-sam dem" head="0" deprel=">N"/>
+	<word id="28" form="vídeo" base="vídeo" postag="N" morf="M S" extra="sem-w" head="0" deprel="P<"/>
+	<word id="29" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="30" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="31" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>
+	<word id="32" form="vai" base="ir" postag="V" morf="PR 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-STA"/>
+	<word id="33" form="mostrar" base="mostrar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+	<word id="34" form="como" base="como" postag="ADV" morf="--" extra="clb clb-fs interr" head="0" deprel="ADVL>"/>
+	<word id="35" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="36" form="ciência" base="ciência" postag="N" morf="F S" extra="domain" head="0" deprel="SUBJ>"/>
+	<word id="37" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+	<word id="38" form="ajudar" base="ajudar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+	<word id="39" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="40" form="entender" base="entender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+	<word id="41" form="esses" base="esse" postag="DET" morf="M P" extra="dem" head="0" deprel=">N"/>
+	<word id="42" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="<ACC"/>
+	<word id="43" form="especialmente" base="especialmente" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="44" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="45" form="o" base="o" postag="DET" morf="M S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="46" form="X" base="x" postag="N" morf="M S" extra="prop * ac-sign" head="0" deprel="P<"/>
+	<word id="47" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="48" form="antiga" base="antigo" postag="ADJ" morf="F S" extra="jh" head="0" deprel=">N"/>
+	<word id="49" form="rede" base="rede" postag="N" morf="F S" extra="HH np-close" head="0" deprel="N<PRED"/>
+	<word id="50" form="social" base="social" postag="ADJ" morf="F S" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="51" form="Twitter" base="Twitter" postag="PROP" morf="F S" extra="media * heur np-close" head="0" deprel="N<"/>
+	<word id="52" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="53" form="O" base="o" postag="DET" morf="M S" extra="* artd" head="0" deprel=">N"/>
+	<word id="54" form="estudo" base="estudo" postag="N" morf="M S" extra="sem-r" head="0" deprel="SUBJ>"/>
+	<word id="55" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+	<word id="56" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="57" form="gente" base="gente" postag="N" morf="F S" extra="HH" head="0" deprel="SUBJ>"/>
+	<word id="58" form="vai" base="ir" postag="V" morf="PR 3S IND VFIN" extra="aux np-close" head="0" deprel="FS-N<"/>
+	<word id="59" form="apresentar" base="apresentar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+	<word id="60" form="analisou" base="analisar" postag="V" morf="PS 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="61" form="mais_de" base="mais_de" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+	<word id="62" form="2" base="2" postag="NUM" morf="M P" extra="card NER:name" head="0" deprel=">N"/>
+	<word id="63" form="mil" base="mil" postag="NUM" morf="M P" extra="card NER2" head="0" deprel=">N"/>
+	<word id="64" form="tweets" base="tweet" postag="N" morf="M P" extra="heur foreign" head="0" deprel="<ACC"/>
+	<word id="65" form="em_português" base="em_português" postag="ADV" morf="--" extra="pp" head="0" deprel="<ADVL"/>
+	<word id="66" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="67" form="postados" base="postar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<PRED"/>
+	<word id="68" form="principalmente" base="principalmente" postag="ADV" morf="--" extra="--" head="0" deprel=">P"/>
+	<word id="69" form="entre" base="entre" postag="PRP" morf="--" extra="prop1 np-close" head="0" deprel="<ADVL"/>
+	<word id="70" form="2020" base="2020" postag="NUM" morf="M/F P" extra="date prop2 card year NER:date" head="0" deprel="P<"/>
+	<word id="71" form="e" base="e" postag="KC" morf="--" extra="prop2" head="0" deprel="CO"/>
+	<word id="72" form="2022" base="2022" postag="NUM" morf="M/F P" extra="date prop2 card year NER:date" head="0" deprel="P<"/>
+	<word id="73" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="74" form="todos" base="todo" postag="DET" morf="M P" extra="quant np-close" head="0" deprel="<ACC"/>
+	<word id="75" form="contendo" base="conter" postag="V" morf="GER" extra="clb mv" head="0" deprel="ICL-<ADVL"/>
+	<word id="76" form="expressões" base="expressão" postag="N" morf="F P" extra="act-s" head="0" deprel="<ACC"/>
+	<word id="77" form="relacionadas" base="relacionar" postag="V" morf="PCP F P" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="78" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="79" form="a" base="o" postag="DET" morf="F S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="80" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="81" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="*2 f-right *1" head="0" deprel="P<"/>
+	<word id="82" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="83" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="84" form="Esses" base="esse" postag="DET" morf="M P" extra="* dem" head="0" deprel=">N"/>
+	<word id="85" form="textos" base="texto" postag="N" morf="M P" extra="sem-r" head="0" deprel="SUBJ>"/>
+	<word id="86" form="formaram" base="formar" postag="V" morf="PS/MQP 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="87" form="um" base="um" postag="DET" morf="M S" extra="arti" head="0" deprel=">N"/>
+	<word id="88" form="corpus" base="corpus" postag="N" morf="M S" extra="newlex" head="0" deprel="<ACC"/>
+	<word id="89" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="90" form="mais_de" base="mais_de" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>
+	<word id="91" form="45" base="45" postag="NUM" morf="F P" extra="card NER:name" head="0" deprel=">N"/>
+	<word id="92" form="mil" base="mil" postag="NUM" morf="F P" extra="card NER2" head="0" deprel=">N"/>
+	<word id="93" form="palavras" base="palavra" postag="N" morf="F P" extra="act-s" head="0" deprel="P<"/>
+	<word id="94" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="95" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+	<word id="96" form="passou" base="passar" postag="V" morf="PS 3S IND VFIN" extra="mv np-close" head="0" deprel="FS-N<"/>
+	<word id="97" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+	<word id="98" form="um" base="um" postag="DET" morf="M S" extra="arti" head="0" deprel=">N"/>
+	<word id="99" form="método" base="método" postag="N" morf="M S" extra="ac" head="0" deprel="P<"/>
+	<word id="100" form="chamado" base="chamado" postag="ADJ" morf="M S" extra="np-close" head="0" deprel="N<"/>
+	<word id="101" form="Análise_Multidimensional_Lexical" base="Análise_Multidimensional_Lexical" postag="PROP" morf="F S" extra="hum * np-long" head="0" deprel="<ACC"/>
+	<word id="102" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="103" form="Esse" base="esse" postag="DET" morf="M S" extra="* dem" head="0" deprel=">N"/>
+	<word id="104" form="nome" base="nome" postag="N" morf="M S" extra="percep-f" head="0" deprel="SUBJ>"/>
+	<word id="105" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-STA"/>
+	<word id="106" form="parecer" base="parecer" postag="V" morf="INF" extra="vK mv" head="0" deprel="ICL-AUX<"/>
+	<word id="107" form="complicado" base="complicar" postag="V" morf="PCP M S" extra="--" head="0" deprel="<SC"/>
+	<word id="108" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="109" form="mas" base="mas" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="110" form="calma" base="calma" postag="N" morf="F S" extra="state" head="0" deprel="<SC"/>
+	<word id="111" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+	<word id="112" form="é" base="ser" postag="V" morf="PR 3S IND VFIN" extra="vK mv np-close" head="0" deprel="FS-N<"/>
+	<word id="113" form="simples" base="simples" postag="ADJ" morf="M S" extra="n" head="0" deprel="<SC"/>
+	<word id="114" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="115" form="entender" base="entender" postag="N" morf="M S" extra="sem-c" head="0" deprel="P<"/>
+	<word id="116" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="117" form="A" base="o" postag="DET" morf="F S" extra="* artd" head="0" deprel=">N"/>
+	<word id="118" form="ideia" base="ideia" postag="N" morf="F S" extra="sem-c" head="0" deprel="SUBJ>"/>
+	<word id="119" form="é" base="ser" postag="V" morf="PR 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="120" form="descobrir" base="descobrir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-<SC"/>
+	<word id="121" form="padrões" base="padrão" postag="N" morf="M P" extra="ac" head="0" deprel="<ACC"/>
+	<word id="122" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="123" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+	<word id="124" form=":" base=":" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="125" form="que" base="que" postag="DET" morf="M P" extra="clb interr" head="0" deprel=">N"/>
+	<word id="126" form="tipos" base="tipo" postag="N" morf="M P" extra="H meta" head="0" deprel="SUBJ>"/>
+	<word id="127" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="128" form="palavras" base="palavra" postag="N" morf="F P" extra="act-s" head="0" deprel="P<"/>
+	<word id="129" form="aparecem" base="aparecer" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-QUE"/>
+	<word id="130" form="juntas" base="junta" postag="N" morf="F P" extra="HH" head="0" deprel="PRED>"/>
+	<word id="131" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="132" form="Que" base="que" postag="DET" morf="M P" extra="clb * interr" head="0" deprel=">N"/>
+	<word id="133" form="estilos" base="estilo" postag="N" morf="M P" extra="ac-cat" head="0" deprel="SUBJ>"/>
+	<word id="134" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="135" form="discurso" base="discurso" postag="N" morf="M S" extra="sem-s" head="0" deprel="P<"/>
+	<word id="136" form="são" base="ser" postag="V" morf="PR 3P IND VFIN" extra="vK fmc mv" head="0" deprel="FS-QUE"/>
+	<word id="137" form="mais" base="mais" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="138" form="comuns" base="comum" postag="ADJ" morf="M P" extra="--" head="0" deprel="<SC"/>
+	<word id="139" form="?" base="?" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="140" form="Pra" base="para" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+	<word id="141" form="isso" base="isso" postag="SPEC" morf="M S" extra="dem" head="0" deprel="P<"/>
+	<word id="142" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="143" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="144" form="pesquisa" base="pesquisa" postag="N" morf="F S" extra="occ act-d" head="0" deprel="SUBJ>"/>
+	<word id="145" form="usa" base="usar" postag="V" morf="PR 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="146" form="uma" base="um" postag="DET" morf="F S" extra="arti" head="0" deprel=">N"/>
+	<word id="147" form="técnica" base="técnica" postag="N" morf="F S" extra="domain" head="0" deprel="<ACC"/>
+	<word id="148" form="estatística" base="estatístico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="149" form="chamada" base="chamado" postag="ADJ" morf="F S" extra="jh np-long" head="0" deprel="N<"/>
+	<word id="150" form="Análise_Fatorial" base="Análise_Fatorial" postag="PROP" morf="F S" extra="hum * np-long" head="0" deprel="N<"/>
+	<word id="151" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="152" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+	<word id="153" form="ajuda" base="ajudar" postag="V" morf="PR 3S IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+	<word id="154" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="155" form="identificar" base="identificar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+	<word id="156" form="grupos" base="grupo" postag="N" morf="M P" extra="HH" head="0" deprel="<ACC"/>
+	<word id="157" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="158" form="palavras" base="palavra" postag="N" morf="F P" extra="ac-cat" head="0" deprel="P<"/>
+	<word id="159" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+	<word id="160" form="costumam" base="costumar" postag="V" morf="PR 3P IND VFIN" extra="vH aux np-close" head="0" deprel="FS-N<"/>
+	<word id="161" form="aparecer" base="aparecer" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+	<word id="162" form="juntas" base="junta" postag="N" morf="F P" extra="HH" head="0" deprel="<PRED"/>
+	<word id="163" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="164" form="contextos" base="contexto" postag="N" morf="M P" extra="Labs" head="0" deprel="P<"/>
+	<word id="165" form="semelhantes" base="semelhante" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="166" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="167" form="O" base="o" postag="DET" morf="M S" extra="* artd" head="0" deprel=">N"/>
+	<word id="168" form="resultado" base="resultado" postag="N" morf="M S" extra="ac" head="0" deprel="SUBJ>"/>
+	<word id="169" form="revelou" base="revelar" postag="V" morf="PS 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="170" form="quatro" base="quatro" postag="NUM" morf="F P" extra="card" head="0" deprel=">N"/>
+	<word id="171" form="grandes" base="grande" postag="ADJ" morf="F P" extra="--" head="0" deprel=">N"/>
+	<word id="172" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+	<word id="173" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+	<word id="174" form="os" base="o" postag="DET" morf="M P" extra="artd -sam" head="0" deprel=">N"/>
+	<word id="175" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="P<"/>
+	<word id="176" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="177" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+	<word id="178" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="179" form="Cada" base="cada" postag="DET" morf="M/F S" extra="* quant" head="0" deprel=">N"/>
+	<word id="180" form="uma" base="uma" postag="NUM" morf="F S" extra="card" head="0" deprel="SUBJ>"/>
+	<word id="181" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+	<word id="182" form="elas" base="elas" postag="PERS" morf="F 3P NOM/PIV" extra="-sam" head="0" deprel="P<"/>
+	<word id="183" form="representa" base="representar" postag="V" morf="PR 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="184" form="um" base="um" postag="DET" morf="M S" extra="arti" head="0" deprel=">N"/>
+	<word id="185" form="tipo" base="tipo" postag="N" morf="M S" extra="meta ac-sign" head="0" deprel="<ACC"/>
+	<word id="186" form="diferente" base="diferente" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="187" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="A<"/>
+	<word id="188" form="construção" base="construção" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+	<word id="189" form="discursiva" base="discursivo" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="190" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="191" form="Por_exemplo" base="por_exemplo" postag="ADV" morf="--" extra="*" head="0" deprel="ADVL>"/>
+	<word id="192" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="193" form="uma" base="uma" postag="NUM" morf="F S" extra="card" head="0" deprel="ACC>"/>
+	<word id="194" form="de" base="de" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+	<word id="195" form="essas" base="esse" postag="DET" morf="F P" extra="-sam dem" head="0" deprel=">N"/>
+	<word id="196" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="P<"/>
+	<word id="197" form="mostrou" base="mostrar" postag="V" morf="PS 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="198" form="um" base="um" postag="DET" morf="M S" extra="arti" head="0" deprel=">N"/>
+	<word id="199" form="conjunto" base="conjunto" postag="N" morf="M S" extra="coll" head="0" deprel="<SUBJ"/>
+	<word id="200" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="201" form="tweets" base="tweet" postag="N" morf="M P" extra="heur foreign" head="0" deprel="P<"/>
+	<word id="202" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="203" form="foco" base="foco" postag="N" morf="M S" extra="Labs" head="0" deprel="P<"/>
+	<word id="204" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="205" form="direitos" base="direito" postag="N" morf="M P" extra="mon" head="0" deprel="P<"/>
+	<word id="206" form="individuais" base="individual" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="207" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="208" form="críticas" base="crítico" postag="ADJ" morf="F P" extra="np-close" head="0" deprel="N<"/>
+	<word id="209" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+	<word id="210" form="instituições" base="instituição" postag="N" morf="F P" extra="inst" head="0" deprel="P<"/>
+	<word id="211" form="públicas" base="público" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="212" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="213" form="Esses" base="esse" postag="DET" morf="M P" extra="* dem" head="0" deprel=">N"/>
+	<word id="214" form="tweets" base="tweet" postag="N" morf="M P" extra="heur foreign" head="0" deprel="SUBJ>"/>
+	<word id="215" form="usavam" base="usar" postag="V" morf="IMPF 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="216" form="palavras" base="palavra" postag="N" morf="F P" extra="ac-cat" head="0" deprel="<ACC"/>
+	<word id="217" form="como" base="como" postag="PRP" morf="--" extra="prd adv-rel" head="0" deprel="<OC"/>
+	<word id="218" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="219" form="liberdade" base="liberdade" postag="N" morf="F S" extra="asarg *1 *2 am" head="0" deprel="P<"/>
+	<word id="220" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="221" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="222" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="223" form="direito" base="direito" postag="ADJ" morf="M S" extra="*1 *2 np-close" head="0" deprel="N<PRED"/>
+	<word id="224" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="225" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="226" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="227" form="democracia" base="democracia" postag="N" morf="F S" extra="asarg *1 *2 inst ism np-close" head="0" deprel="N<PRED"/>
+	<word id="228" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="229" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="230" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="231" form="verbos" base="verbo" postag="N" morf="M P" extra="asarg ac-cat" head="0" deprel="P<"/>
+	<word id="232" form="como" base="como" postag="ADV" morf="--" extra="clb clb-fs rel ks" head="0" deprel="ADVL>"/>
+	<word id="233" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="234" form="prender" base="prender" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 mv np-close" head="0" deprel="FS-N<"/>
+	<word id="235" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="236" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+	<word id="237" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="238" form="censurar" base="censurar" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 vH fmc mv np-close" head="0" deprel="FS-N<"/>
+	<word id="239" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="240" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="241" form="Algumas" base="algum" postag="DET" morf="F P" extra="* quant" head="0" deprel=">N"/>
+	<word id="242" form="hashtags" base="hashtag" postag="N" morf="F P" extra="heur foreign" head="0" deprel="SUBJ>"/>
+	<word id="243" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+	<word id="244" form="apareceram" base="aparecer" postag="V" morf="PS/MQP 3P IND VFIN" extra="mv np-close" head="0" deprel="FS-N<"/>
+	<word id="245" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="246" form="esse" base="esse" postag="DET" morf="M S" extra="-sam dem" head="0" deprel=">N"/>
+	<word id="247" form="grupo" base="grupo" postag="N" morf="M S" extra="HH" head="0" deprel="P<"/>
+	<word id="248" form="foram" base="ser" postag="V" morf="PS/MQP 3P IND VFIN" extra="vK fmc mv" head="0" deprel="FS-STA"/>
+	<word id="249" form="vergonha" base="vergonha" postag="N" morf="F S" extra="percep-f" head="0" deprel="<SC"/>
+	<word id="250" form="mundial" base="mundial" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="251" form="STF" base="STF" postag="PROP" morf="M S" extra="inst * np-long" head="0" deprel="N<"/>
+	<word id="252" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="253" form="Já" base="já" postag="ADV" morf="--" extra="*" head="0" deprel="ADVL>"/>
+	<word id="254" form="outro" base="outro" postag="DET" morf="M S" extra="diff KOMP" head="0" deprel=">N"/>
+	<word id="255" form="grupo" base="grupo" postag="N" morf="M S" extra="HH" head="0" deprel="SUBJ>"/>
+	<word id="256" form="tinha" base="ter" postag="V" morf="IMPF 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="257" form="um" base="um" postag="DET" morf="M S" extra="arti" head="0" deprel=">N"/>
+	<word id="258" form="tom" base="tom" postag="N" morf="M S" extra="ac" head="0" deprel="<ACC"/>
+	<word id="259" form="mais" base="mais" postag="ADV" morf="--" extra="quant KOMP" head="0" deprel=">A"/>
+	<word id="260" form="ligado" base="ligar" postag="V" morf="PCP M S" extra="mv np-close" head="0" deprel="ICL-N<"/>
+	<word id="261" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+	<word id="262" form="a" base="o" postag="DET" morf="F S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="263" form="identidade" base="identidade" postag="N" morf="F S" extra="f-psych" head="0" deprel="P<"/>
+	<word id="264" form="coletiva" base="coletivo" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="265" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="266" form="com" base="com" postag="PRP" morf="--" extra="np-close" head="0" deprel="<ADVL"/>
+	<word id="267" form="uso" base="uso" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+	<word id="268" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="269" form="termos" base="termo" postag="N" morf="M P" extra="act-s" head="0" deprel="P<"/>
+	<word id="270" form="religiosos" base="religioso" postag="ADJ" morf="M P" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="271" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="272" form="patrióticos" base="patriótico" postag="ADJ" morf="M P" extra="np-long" head="0" deprel="N<"/>
+	<word id="273" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="274" form="nacionais" base="nacional" postag="ADJ" morf="M/F P" extra="np-close" head="0" deprel="N<"/>
+	<word id="275" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="276" form="Palavras" base="palavra" postag="N" morf="F P" extra="* act-s" head="0" deprel="SUBJ>"/>
+	<word id="277" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+	<word id="278" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="279" form="pátria" base="pátrio" postag="ADJ" morf="F S" extra="asarg *1 *2 nh" head="0" deprel="P<"/>
+	<word id="280" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="281" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="282" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="283" form="Deus" base="Deus" postag="PROP" morf="M S" extra="hum asarg * *1 *2" head="0" deprel="P<"/>
+	<word id="284" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="285" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="286" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="287" form="raiar" base="raiar" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 vN fmc mv" head="0" deprel="FS-STA"/>
+	<word id="288" form="&quot;" base="&quot;" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="289" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="290" form="hashtags" base="hashtag" postag="N" morf="M P" extra="heur foreign" head="0" deprel="<ACC"/>
+	<word id="291" form="como" base="como" postag="PRP" morf="--" extra="com adv-rel np-close" head="0" deprel="N<"/>
+	<word id="292" form="Deus" base="Deus" postag="PROP" morf="M S" extra="hum asarg *" head="0" deprel="P<"/>
+	<word id="293" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="294" form="Pátria" base="Pátria" postag="PROP" morf="M/F S" extra="hum *" head="0" deprel="SUBJ>"/>
+	<word id="295" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="296" form="SOS_Forças" base="SOS_Forças" postag="PROP" morf="M S" extra="org *" head="0" deprel="SUBJ>"/>
+	<word id="297" form="Armadas" base="armar" postag="V" morf="PCP F P" extra="prop * vH np-close" head="0" deprel="N<"/>
+	<word id="298" form="apareceram" base="aparecer" postag="V" morf="PS/MQP 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="299" form="com" base="com" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="300" form="frequência" base="frequência" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+	<word id="301" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="302" form="Esses" base="esse" postag="DET" morf="M P" extra="* dem" head="0" deprel=">N"/>
+	<word id="303" form="exemplos" base="exemplo" postag="N" morf="M P" extra="ac" head="0" deprel="SUBJ>"/>
+	<word id="304" form="mostram" base="mostrar" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="305" form="como" base="como" postag="ADV" morf="--" extra="clb clb-fs interr" head="0" deprel="ADVL>"/>
+	<word id="306" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="307" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="SUBJ>"/>
+	<word id="308" form="em" base="em" postag="PRP" morf="--" extra="sam- np-close" head="0" deprel="N<"/>
+	<word id="309" form="as" base="o" postag="DET" morf="F P" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="310" form="redes" base="rede" postag="N" morf="F P" extra="Lh" head="0" deprel="P<"/>
+	<word id="311" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+	<word id="312" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+	<word id="313" form="revelar" base="revelar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+	<word id="314" form="muito" base="muito" postag="DET" morf="M S" extra="quant" head="0" deprel="<ACC"/>
+	<word id="315" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="316" form="como" base="como" postag="ADV" morf="--" extra="rel" head="0" deprel="P<"/>
+	<word id="317" form="certos" base="certos" postag="DET" morf="M P" extra="quant" head="0" deprel=">N"/>
+	<word id="318" form="temas" base="tema" postag="N" morf="M P" extra="ac" head="0" deprel="SUBJ>"/>
+	<word id="319" form="são" base="ser" postag="V" morf="PR 3P IND VFIN" extra="fmc aux" head="0" deprel="FS-STA"/>
+	<word id="320" form="tratados" base="tratar" postag="V" morf="PCP M P" extra="mv" head="0" deprel="ICL-AUX<"/>
+	<word id="321" form="publicamente" base="público" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="322" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="323" form="No_caso_de" base="no_caso_de" postag="PRP" morf="--" extra="sam- *" head="0" deprel="ADVL>"/>
+	<word id="324" form="a" base="o" postag="DET" morf="F S" extra="artd -sam" head="0" deprel=">N"/>
+	<word id="325" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+	<word id="326" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="327" form="os" base="o" postag="DET" morf="M P" extra="artd" head="0" deprel=">N"/>
+	<word id="328" form="termos" base="termo" postag="N" morf="M P" extra="con" head="0" deprel="SUBJ>"/>
+	<word id="329" form="não" base="não" postag="ADV" morf="--" extra="--" head="0" deprel="ADVL>"/>
+	<word id="330" form="aparecem" base="aparecer" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="331" form="por_acaso" base="por_acaso" postag="ADV" morf="--" extra="pp" head="0" deprel="<ADVL"/>
+	<word id="332" form=":" base=":" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="333" form="eles" base="eles" postag="PERS" morf="M 3P NOM" extra="--" head="0" deprel="SUBJ>"/>
+	<word id="334" form="ajudam" base="ajudar" postag="V" morf="PR 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="335" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="336" form="sustentar" base="sustentar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+	<word id="337" form="posicionamentos" base="posicionamento" postag="N" morf="M P" extra="act" head="0" deprel="<ACC"/>
+	<word id="338" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="339" form="reforçar" base="reforçar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+	<word id="340" form="argumentos" base="argumento" postag="N" morf="M P" extra="sem-c" head="0" deprel="<ACC"/>
+	<word id="341" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="342" form="até" base="até" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="343" form="mobilizar" base="mobilizar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+	<word id="344" form="apoios" base="apoio" postag="N" morf="M P" extra="act-d" head="0" deprel="<ACC"/>
+	<word id="345" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="346" form="Essa" base="esse" postag="DET" morf="F S" extra="* dem" head="0" deprel="SUBJ>"/>
+	<word id="347" form="é" base="ser" postag="V" morf="PR 3S IND VFIN" extra="vK fmc mv" head="0" deprel="FS-STA"/>
+	<word id="348" form="uma" base="um" postag="DET" morf="F S" extra="arti" head="0" deprel=">N"/>
+	<word id="349" form="pesquisa" base="pesquisa" postag="N" morf="F S" extra="occ act-d" head="0" deprel="<SC"/>
+	<word id="350" form="científica" base="científico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="351" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="352" form="baseada" base="basear" postag="V" morf="PCP F S" extra="jh mv" head="0" deprel="ICL-N<PRED"/>
+	<word id="353" form="em" base="em" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+	<word id="354" form="métodos" base="método" postag="N" morf="M P" extra="ac" head="0" deprel="P<"/>
+	<word id="355" form="rigorosos" base="rigoroso" postag="ADJ" morf="M P" extra="np-close" head="0" deprel="N<"/>
+	<word id="356" form="de" base="de" postag="PRP" morf="--" extra="np-close" head="0" deprel="N<"/>
+	<word id="357" form="análise" base="análise" postag="N" morf="F S" extra="act-d" head="0" deprel="P<"/>
+	<word id="358" form="linguística" base="lingüístico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+	<word id="359" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="360" form="O" base="o" postag="DET" morf="M S" extra="* artd" head="0" deprel=">N"/>
+	<word id="361" form="objetivo" base="objetivo" postag="N" morf="M S" extra="sem-c" head="0" deprel="SUBJ>"/>
+	<word id="362" form="não" base="não" postag="ADV" morf="--" extra="--" head="0" deprel="ADVL>"/>
+	<word id="363" form="é" base="ser" postag="V" morf="PR 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+	<word id="364" form="julgar" base="julgar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-<SC"/>
+	<word id="365" form="os" base="o" postag="DET" morf="M P" extra="artd" head="0" deprel=">N"/>
+	<word id="366" form="discursos" base="discurso" postag="N" morf="M P" extra="sem-s" head="0" deprel="<ACC"/>
+	<word id="367" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="368" form="mas" base="mas" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="369" form="entender" base="entender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-<SC"/>
+	<word id="370" form="como" base="como" postag="ADV" morf="--" extra="clb clb-fs interr" head="0" deprel="ADVL>"/>
+	<word id="371" form="eles" base="eles" postag="PERS" morf="M 3P NOM" extra="--" head="0" deprel="SUBJ>"/>
+	<word id="372" form="se" base="se" postag="PERS" morf="M/F 3P ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+	<word id="373" form="organizam" base="organizar" postag="V" morf="PR 3P IND VFIN" extra="vH mv" head="0" deprel="FS-<ACC"/>
+	<word id="374" form="e" base="e" postag="KC" morf="--" extra="co-fin" head="0" deprel="CO"/>
+	<word id="375" form="circulam" base="circular" postag="V" morf="PR 3P IND VFIN" extra="vN fmc mv" head="0" deprel="FS-<ACC"/>
+	<word id="376" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="377" form="a" base="o" postag="DET" morf="F S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="378" form="sociedade" base="sociedade" postag="N" morf="F S" extra="HH" head="0" deprel="P<"/>
+	<word id="379" form="." base="." postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="380" form="Se" base="se" postag="KS" morf="--" extra="clb clb-fs *" head="0" deprel="SUB"/>
+	<word id="381" form="você" base="você" postag="PERS" morf="M/F 3S NOM" extra="--" head="0" deprel="SUBJ>"/>
+	<word id="382" form="gostou" base="gostar" postag="V" morf="PS 3S IND VFIN" extra="vH mv" head="0" deprel="FS-ADVL>"/>
+	<word id="383" form="de" base="de" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+	<word id="384" form="esse" base="esse" postag="DET" morf="M S" extra="dem -sam" head="0" deprel=">N"/>
+	<word id="385" form="conteúdo" base="conteúdo" postag="N" morf="M S" extra="amount am" head="0" deprel="P<"/>
+	<word id="386" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="387" form="curta" base="curto" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<PRED"/>
+	<word id="388" form="o" base="o" postag="DET" morf="M S" extra="artd" head="0" deprel=">N"/>
+	<word id="389" form="vídeo" base="vídeo" postag="N" morf="M S" extra="sem-w np-close" head="0" deprel="APP"/>
+	<word id="390" form="," base="," postag="pu" morf="--" extra="--" head="0" deprel="PU"/>
+	<word id="391" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+	<word id="392" form="inscreva" base="inscrever" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="393" form="em" base="em" postag="PRP" morf="--" extra="sam-" head="0" deprel="<PIV"/>
+	<word id="394" form="o" base="o" postag="DET" morf="M S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="395" form="canal" base="canal" postag="N" morf="M S" extra="Lwater" head="0" deprel="P<"/>
+	<word id="396" form="e" base="e" postag="KC" morf="--" extra="--" head="0" deprel="CO"/>
+	<word id="397" form="ative" base="ativar" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="398" form="o" base="o" postag="DET" morf="M S" extra="artd" head="0" deprel=">N"/>
+	<word id="399" form="sininho" base="sininho" postag="N" morf="M S" extra="DERS" head="0" deprel="<ACC"/>
+	<word id="400" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="401" form="não" base="não" postag="ADV" morf="--" extra="--" head="0" deprel="ADVL>"/>
+	<word id="402" form="perder" base="perder" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+	<word id="403" form="mais" base="mais" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="404" form="nenhuma" base="nenhum" postag="DET" morf="F S" extra="quant" head="0" deprel=">N"/>
+	<word id="405" form="explicação" base="explicação" postag="N" morf="F S" extra="act-s" head="0" deprel="<ACC"/>
+	<word id="406" form="sobre" base="sobre" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+	<word id="407" form="como" base="como" postag="ADV" morf="--" extra="rel" head="0" deprel="P<"/>
+	<word id="408" form="a" base="o" postag="DET" morf="F S" extra="artd" head="0" deprel=">N"/>
+	<word id="409" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="SUBJ>"/>
+	<word id="410" form="molda" base="moldar" postag="V" morf="PR 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+	<word id="411" form="o" base="o" postag="DET" morf="M S" extra="artd" head="0" deprel=">N"/>
+	<word id="412" form="mundo" base="mundo" postag="N" morf="M S" extra="L" head="0" deprel="<ACC"/>
+	<word id="413" form="a" base="a" postag="PRP" morf="--" extra="sam-" head="0" deprel="<ADVL"/>
+	<word id="414" form="o" base="o" postag="DET" morf="M S" extra="-sam artd" head="0" deprel=">N"/>
+	<word id="415" form="nosso" base="nosso" postag="DET" morf="M S" extra="poss 1P" head="0" deprel=">N"/>
+	<word id="416" form="redor" base="redor" postag="N" morf="M S" extra="Ltop" head="0" deprel="P<"/>
+	<word id="417" form="!" base="!" postag="pu" morf="--" extra="--" head="0" deprel="PU"/>

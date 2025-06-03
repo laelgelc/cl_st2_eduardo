@@ -1,0 +1,54 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000001 <word id="7" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="74" form="Para" base="para" postag="PRP" morf="--" extra="*" head="0" deprel="ADVL>"/>
+t000001 <word id="75" form="entender" base="entender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="191" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000001 <word id="192" form="acessar" base="acessar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="198" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PASS"/>
+t000001 <word id="199" form="assistir" base="assistir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="4" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000002 <word id="5" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="39" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="40" form="entender" base="entender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="154" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="155" form="identificar" base="identificar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="335" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="336" form="sustentar" base="sustentar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="342" form="até" base="até" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="343" form="mobilizar" base="mobilizar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="68" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000003 <word id="69" form="ser" base="ser" postag="V" morf="INF" extra="aux" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="165" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 <word id="166" form="desacreditar" base="desacreditar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="174" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 <word id="175" form="marcar" base="marcar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="184" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000003 <word id="185" form="mostrar" base="mostrar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="245" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000003 <word id="246" form="curtir" base="curtir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000004 <word id="7" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="204" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 <word id="205" form="apoiar" base="apoiar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="247" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000004 <word id="248" form="construir" base="construir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="288" form="por" base="por" postag="PRP" morf="--" extra="--" head="0" deprel="<PASS"/>
+t000004 <word id="289" form="assistir" base="assistir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="76" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000005 <word id="77" form="ser" base="ser" postag="V" morf="INF" extra="aux" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="140" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="PRT-AUX<"/>
+t000005 <word id="141" form="servir" base="servir" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="142" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 <word id="143" form="marcar" base="marcar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="211" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 <word id="212" form="reforçar" base="reforçar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="271" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000005 <word id="272" form="dividir" base="dividir" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="288" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 <word id="289" form="compreender" base="compreender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="124" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 <word id="125" form="examinar" base="examinar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="336" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 <word id="337" form="acessar" base="acessar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="345" form="de" base="de" postag="PRP" morf="--" extra="--" head="0" deprel="<PIV"/>
+t000006 <word id="346" form="curtir" base="curtir" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>

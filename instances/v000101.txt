@@ -1,0 +1,8 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="15" form="papel" base="papel" postag="N" morf="M S" extra="ac" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="162" form="Corte" base="corte" postag="N" morf="F S" extra="prop * inst" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="85" form="textos" base="texto" postag="N" morf="M P" extra="sem-r" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="258" form="tom" base="tom" postag="N" morf="M S" extra="ac" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="412" form="mundo" base="mundo" postag="N" morf="M S" extra="L" head="0" deprel="<ACC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="204" form="ferramenta" base="ferramenta" postag="N" morf="F S" extra="tool" head="0" deprel="<OC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="199" form="texto" base="texto" postag="N" morf="M S" extra="sem-r" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="339" form="artigo" base="artigo" postag="N" morf="M S" extra="sem-r" head="0" deprel="<ACC"/>

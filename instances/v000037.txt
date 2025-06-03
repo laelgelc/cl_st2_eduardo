@@ -1,0 +1,8 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="43" form="especialmente" base="especialmente" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="68" form="principalmente" base="principalmente" postag="ADV" morf="--" extra="--" head="0" deprel=">P"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="53" form="especialmente" base="especialmente" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="118" form="Segundo" base="segundo" postag="PRP" morf="--" extra="com * adv-rel" head="0" deprel="ADVL>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="149" form="Segundo" base="segundo" postag="PRP" morf="--" extra="com * adv-rel" head="0" deprel="ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="173" form="especialmente" base="especialmente" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="108" form="atualmente" base="atualmente" postag="ADV" morf="--" extra="--" head="0" deprel=">A"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="195" form="segundo" base="segundo" postag="N" morf="M S" extra="dur" head="0" deprel="SUBJ>"/>

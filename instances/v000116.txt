@@ -1,0 +1,4 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="116" form="Algumas" base="algum" postag="DET" morf="F P" extra="* quant" head="0" deprel="SUBJ>"/>
+t000001 <word id="117" form="destacam" base="destacar" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="74" form="todos" base="todo" postag="DET" morf="M P" extra="quant np-close" head="0" deprel="<ACC"/>
+t000002 <word id="75" form="contendo" base="conter" postag="V" morf="GER" extra="clb mv" head="0" deprel="ICL-<ADVL"/>

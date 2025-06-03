@@ -1,0 +1,5 @@
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="202" form="tornar" base="tornar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="167" form="aconteceu" base="acontecer" postag="V" morf="PS 3S IND VFIN" extra="vN fmc mv" head="0" deprel="FS-STA"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="216" form="aumentar" base="aumentar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="295" form="transforma" base="transformar" postag="V" morf="PR 3S IND VFIN" extra="mv" head="0" deprel="FS-<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="82" form="tornaram" base="tornar" postag="V" morf="PS/MQP 3P IND VFIN" extra="mv" head="0" deprel="FS-<ADVL"/>

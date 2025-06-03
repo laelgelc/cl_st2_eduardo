@@ -1,0 +1,15 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="32" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="42" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="148" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="159" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="118" form="ideia" base="ideia" postag="N" morf="F S" extra="sem-c" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="357" form="análise" base="análise" postag="N" morf="F S" extra="act-d" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="21" form="percepção" base="percepção" postag="N" morf="F S" extra="sem-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="257" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="60" form="ideia" base="ideia" postag="N" morf="F S" extra="sem-c" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="223" form="atenção" base="atenção" postag="N" morf="F S" extra="am" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="36" form="doenças" base="doença" postag="N" morf="F P" extra="sick" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="143" form="análise" base="análise" postag="N" morf="F S" extra="asarg act-d" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="225" form="relatos" base="relato" postag="N" morf="M P" extra="sem-r" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="235" form="análise" base="análise" postag="N" morf="F S" extra="act-d" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="283" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>

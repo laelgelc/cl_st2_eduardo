@@ -1,0 +1,31 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="32" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="<ACC"/>
+t000001 <word id="33" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="54" form="estudo" base="estudo" postag="N" morf="M S" extra="sem-r" head="0" deprel="SUBJ>"/>
+t000002 <word id="55" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="110" form="calma" base="calma" postag="N" morf="F S" extra="state" head="0" deprel="<SC"/>
+t000002 <word id="111" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="158" form="palavras" base="palavra" postag="N" morf="F P" extra="ac-cat" head="0" deprel="P<"/>
+t000002 <word id="159" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="242" form="hashtags" base="hashtag" postag="N" morf="F P" extra="heur foreign" head="0" deprel="SUBJ>"/>
+t000002 <word id="243" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="218" form="informação" base="informação" postag="N" morf="F S" extra="ac" head="0" deprel="P<"/>
+t000003 <word id="219" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="74" form="hashtags" base="hashtag" postag="N" morf="M P" extra="heur foreign" head="0" deprel="<ACC"/>
+t000004 <word id="75" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="181" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000004 <word id="182" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="190" form="tuítes" base="tuíte" postag="N" morf="F P" extra="DERS" head="0" deprel="P<"/>
+t000004 <word id="191" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="219" form="imagens" base="imagem" postag="N" morf="F P" extra="sem-c" head="0" deprel="<ACC"/>
+t000004 <word id="220" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="176" form="hashtags" base="hashtag" postag="N" morf="F P" extra="heur foreign" head="0" deprel="P<"/>
+t000005 <word id="177" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="12" form="movimentos" base="movimento" postag="N" morf="M P" extra="mon" head="0" deprel="P<"/>
+t000006 <word id="13" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="36" form="doenças" base="doença" postag="N" morf="F P" extra="sick" head="0" deprel="P<"/>
+t000006 <word id="37" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="153" form="principais" base="principal" postag="N" morf="M P" extra="Hprof np-long" head="0" deprel="N<"/>
+t000006 <word id="154" form="que" base="que" postag="SPEC" morf="M S" extra="clb clb-fs rel" head="0" deprel="ACC>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="350" form="conteúdo" base="conteúdo" postag="N" morf="M S" extra="amount am" head="0" deprel="<ACC"/>
+t000006 <word id="351" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 <word id="352" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>

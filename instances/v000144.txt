@@ -1,0 +1,7 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="215" form="usavam" base="usar" postag="V" morf="IMPF 3P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="256" form="tinha" base="ter" postag="V" morf="IMPF 3S IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="158" form="era" base="ser" postag="V" morf="IMPF 3S IND VFIN" extra="vK fmc mv" head="0" deprel="FS-STA"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="171" form="dizia" base="dizer" postag="V" morf="IMPF 3S IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="73" form="continham" base="conter" postag="V" morf="IMPF 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="76" form="indicavam" base="indicar" postag="V" morf="IMPF 3P IND VFIN" extra="mv np-close" head="0" deprel="FS-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="38" form="estavam" base="estar" postag="V" morf="IMPF 3P IND VFIN" extra="mv np-close" head="0" deprel="FS-N<"/>

@@ -1,0 +1,1 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="132" form="Que" base="que" postag="DET" morf="M P" extra="clb * interr" head="0" deprel=">N"/>

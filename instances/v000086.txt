@@ -1,0 +1,2 @@
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="110" form="conseguimos" base="conseguir" postag="V" morf="PR 1P IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000004 <word id="111" form="compreender" base="compreender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-<ACC"/>

@@ -1,0 +1,11 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="163" form="foram" base="ser" postag="V" morf="PS/MQP 3P IND VFIN" extra="aux" head="0" deprel="FS-<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="37" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="312" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="69" form="ser" base="ser" postag="V" morf="INF" extra="aux" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="98" form="foi" base="ser" postag="V" morf="PS 3S IND VFIN" extra="aux" head="0" deprel="FS-<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="195" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="35" form="são" base="ser" postag="V" morf="PR 3P IND VFIN" extra="aux" head="0" deprel="FS-<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="42" form="foi" base="ser" postag="V" morf="PS 3S IND VFIN" extra="aux" head="0" deprel="FS-<ADVL"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="75" form="passou" base="passar" postag="V" morf="PS 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="77" form="ser" base="ser" postag="V" morf="INF" extra="aux" head="0" deprel="ICL-AUX<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="247" form="são" base="ser" postag="V" morf="PR 3P IND VFIN" extra="aux" head="0" deprel="FS-<ADVL"/>

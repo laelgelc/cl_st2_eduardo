@@ -1,0 +1,105 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="32" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="42" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="94" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="107" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="135" form="constitucionalidade" base="constitucionalidade" postag="N" morf="F S" extra="percep-f" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="141" form="tendências" base="tendência" postag="N" morf="F P" extra="ac" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="148" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="159" form="decisões" base="decisão" postag="N" morf="F P" extra="act" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="187" form="descrição" base="descrição" postag="N" morf="F S" extra="act" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="11" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="22" form="Diferenças" base="diferença" postag="N" morf="F P" extra="* ac" head="0" deprel="NPHR"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="24" form="Semelhanças" base="semelhança" postag="N" morf="F P" extra="* am" head="0" deprel="NPHR"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="36" form="ciência" base="ciência" postag="N" morf="F S" extra="domain" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="76" form="expressões" base="expressão" postag="N" morf="F P" extra="act-s" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="81" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="*2 f-right *1" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="123" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="172" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="177" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="188" form="construção" base="construção" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="196" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="210" form="instituições" base="instituição" postag="N" morf="F P" extra="inst" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="219" form="liberdade" base="liberdade" postag="N" morf="F S" extra="asarg *1 *2 am" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="263" form="identidade" base="identidade" postag="N" morf="F S" extra="f-psych" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="300" form="frequência" base="frequência" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="307" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="325" form="liberdade_de_expressão" base="liberdade_de_expressão" postag="N" morf="F S" extra="f-right" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="337" form="posicionamentos" base="posicionamento" postag="N" morf="M P" extra="act" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="340" form="argumentos" base="argumento" postag="N" morf="M P" extra="sem-c" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="378" form="sociedade" base="sociedade" postag="N" morf="F S" extra="HH" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="405" form="explicação" base="explicação" postag="N" morf="F S" extra="act-s" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="409" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="5" form="expressão" base="expressão" postag="N" morf="F S" extra="act-s" head="0" deprel="<ACC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="31" form="aparência" base="aparência" postag="N" morf="F S" extra="percep-f" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="33" form="jornalismo" base="jornalismo" postag="N" morf="M S" extra="domain" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="41" form="realidade" base="realidade" postag="N" morf="F S" extra="sit" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="54" form="momentos" base="momento" postag="N" morf="M P" extra="dur" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="120" form="postagens" base="postagem" postag="N" morf="F P" extra="act" head="0" deprel="<SUBJ"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="143" form="mensagens" base="mensagem" postag="N" morf="F P" extra="sem-s" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="164" form="acusação" base="acusação" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="176" form="oposição" base="oposição" postag="N" morf="F S" extra="HH" head="0" deprel="<SUBJ"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="181" form="investigação" base="investigação" postag="N" morf="F S" extra="act" head="0" deprel="SUBJ>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="218" form="informação" base="informação" postag="N" morf="F S" extra="ac" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="21" form="percepção" base="percepção" postag="N" morf="F S" extra="sem-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="31" form="elementos" base="elemento" postag="N" morf="M P" extra="ac" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="47" form="cultura" base="cultura" postag="N" morf="F S" extra="ac" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="77" form="referências" base="referência" postag="N" morf="F P" extra="act-s" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="101" form="variação" base="variação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="114" form="elementos" base="elemento" postag="N" morf="M P" extra="ac" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="130" form="variação" base="variação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="154" form="imagens" base="imagem" postag="N" morf="F P" extra="sem-c" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="164" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="168" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="175" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="181" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="188" form="oposição" base="oposição" postag="N" morf="F S" extra="asarg Labs act-s am" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="195" form="manipulação" base="manipulação" postag="N" morf="F S" extra="act" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="219" form="imagens" base="imagem" postag="N" morf="F P" extra="sem-c" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="257" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="261" form="representações" base="representação" postag="N" morf="F P" extra="sem-s" head="0" deprel="SUBJ>"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="285" form="descrição" base="descrição" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="23" form="acusação" base="acusação" postag="N" morf="F S" extra="sem-s" head="0" deprel="<SUBJ"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="86" form="postagens" base="postagem" postag="N" morf="F P" extra="act" head="0" deprel="<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="115" form="acusação" base="acusação" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="157" form="criação" base="criação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="161" form="posições" base="posição" postag="N" morf="F P" extra="pos-an" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="171" form="compartilhamentos" base="compartilhamento" postag="N" morf="M P" extra="activity np-close" head="0" deprel="N<PRED"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="195" form="postagens" base="postagem" postag="N" morf="F P" extra="act" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="203" form="imagens" base="imagem" postag="N" morf="F P" extra="sem-c np-close" head="0" deprel="N<PRED"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="214" form="mensagem" base="mensagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="223" form="atenção" base="atenção" postag="N" morf="F S" extra="am" head="0" deprel="<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="226" form="elementos" base="elemento" postag="N" morf="M P" extra="H" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="234" form="comunicação" base="comunicação" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="262" form="influência" base="influência" postag="N" morf="F S" extra="am" head="0" deprel="<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="313" form="linguagem" base="linguagem" postag="N" morf="F S" extra="sem-s" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="333" form="ciência" base="ciência" postag="N" morf="F S" extra="domain" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="9" form="crescimento" base="crescimento" postag="N" morf="M S" extra="process" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="12" form="movimentos" base="movimento" postag="N" morf="M P" extra="mon" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="16" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="24" form="redução" base="redução" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="27" form="cobertura" base="cobertura" postag="N" morf="F S" extra="am Lcover cm" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="34" form="ressurgimento" base="ressurgimento" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="36" form="doenças" base="doença" postag="N" morf="F P" extra="sick" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="57" form="diminuição" base="diminuição" postag="N" morf="F S" extra="event" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="60" form="adesão" base="adesão" postag="N" morf="F S" extra="state" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="77" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="80" form="eficácia" base="eficácia" postag="N" morf="F S" extra="am" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="100" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="114" form="abordagem" base="abordagem" postag="N" morf="F S" extra="act" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="139" form="etiquetagem" base="etiquetagem" postag="N" morf="F S" extra="asarg act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="151" form="dimensões" base="dimensão" postag="N" morf="F P" extra="f-c" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="153" form="principais" base="principal" postag="N" morf="M P" extra="Hprof np-long" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="158" form="discussões" base="discussão" postag="N" morf="F P" extra="talk" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="160" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="192" form="crianças" base="criança" postag="N" morf="F P" extra="H" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="197" form="alegações" base="alegação" postag="N" morf="F P" extra="sem-c" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="211" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="218" form="relação" base="relação" postag="N" morf="F S" extra="ac" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="221" form="tratamento" base="tratamento" postag="N" morf="M S" extra="therapy" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="259" form="combinação" base="combinação" postag="N" morf="F S" extra="act-s" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="265" form="abordagens" base="abordagem" postag="N" morf="F P" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="283" form="compreensão" base="compreensão" postag="N" morf="F S" extra="am" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="288" form="vacinação" base="vacinação" postag="N" morf="F S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="309" form="desenvolvimento" base="desenvolvimento" postag="N" morf="M S" extra="act" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="332" form="descrição" base="descrição" postag="N" morf="F S" extra="sem-r" head="0" deprel="<ACC"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="359" form="informação" base="informação" postag="N" morf="F S" extra="ac" head="0" deprel="P<"/>

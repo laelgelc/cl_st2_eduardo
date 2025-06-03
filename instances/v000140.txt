@@ -1,0 +1,4 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="32" form="vai" base="ir" postag="V" morf="PR 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-STA"/>
+t000002 <word id="33" form="mostrar" base="mostrar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="58" form="vai" base="ir" postag="V" morf="PR 3S IND VFIN" extra="aux np-close" head="0" deprel="FS-N<"/>
+t000002 <word id="59" form="apresentar" base="apresentar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>

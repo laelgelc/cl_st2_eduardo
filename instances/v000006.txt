@@ -1,0 +1,68 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="18" form="Supremo" base="supremo" postag="ADJ" morf="M S" extra="prop n prop1 * jh" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="152" form="público" base="público" postag="ADJ" morf="M S" extra="np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="203" form="próxima" base="próximo" postag="ADJ" morf="F S" extra="n jh" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="78" form="presentes" base="presente" postag="ADJ" morf="M P" extra="np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="111" form="presentes" base="presente" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="12" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="95" form="discursivas" base="discursivo" postag="ADJ" morf="F P" extra="nh np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="131" form="institucionais" base="institucional" postag="ADJ" morf="F P" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="274" form="nacionais" base="nacional" postag="ADJ" morf="M/F P" extra="np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="138" form="comuns" base="comum" postag="ADJ" morf="M P" extra="--" head="0" deprel="<SC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="186" form="diferente" base="diferente" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="211" form="públicas" base="público" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="171" form="grandes" base="grande" postag="ADJ" morf="F P" extra="--" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="387" form="curta" base="curto" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<PRED"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="48" form="antiga" base="antigo" postag="ADJ" morf="F S" extra="jh" head="0" deprel=">N"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="15" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="50" form="social" base="social" postag="ADJ" morf="F S" extra="jh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="148" form="estatística" base="estatístico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="189" form="discursiva" base="discursivo" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="206" form="individuais" base="individual" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="250" form="mundial" base="mundial" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="264" form="coletiva" base="coletivo" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="311" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="350" form="científica" base="científico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="25" form="falsas" base="falso" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="45" form="falsas" base="falso" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="75" form="intensa" base="intenso" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="152" form="seguinte" base="seguinte" postag="ADJ" morf="M S" extra="n nh" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="213" form="essencial" base="essencial" postag="ADJ" morf="M S" extra="nh" head="0" deprel="<SC"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="197" form="novos" base="novo" postag="ADJ" morf="M P" extra="jh" head="0" deprel=">N"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="79" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="90" form="científico" base="científico" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="182" form="científica" base="científico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="235" form="locais" base="local" postag="ADJ" morf="F P" extra="nh np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="293" form="próxima" base="próximo" postag="ADJ" morf="F S" extra="n jh" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="127" form="grandes" base="grande" postag="ADJ" morf="M P" extra="jh" head="0" deprel=">N"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="17" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="25" form="sociais" base="social" postag="ADJ" morf="M P" extra="jh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="34" form="visuais" base="visual" postag="ADJ" morf="M/F P" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="104" form="visual" base="visual" postag="ADJ" morf="M/F S" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="115" form="discursivos" base="discursivo" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="176" form="visuais" base="visual" postag="ADJ" morf="F P" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="216" form="visual" base="visual" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="234" form="políticas" base="político" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="120" form="internacionais" base="internacional" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="71" form="graves" base="grave" postag="ADJ" morf="M/F P" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="219" form="emocional" base="emocional" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="293" form="público" base="público" postag="ADJ" morf="M S" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="326" form="curta" base="curto" postag="ADJ" morf="F S" extra="nh" head="0" deprel="SUBJ>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="82" form="recentes" base="recente" postag="ADJ" morf="F P" extra="nh np-long" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="128" form="novo" base="novo" postag="ADJ" morf="M S" extra="jh" head="0" deprel="<SC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="14" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="34" form="acadêmica" base="acadêmico" postag="ADJ" morf="F S" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="57" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="81" form="políticas" base="político" postag="ADJ" morf="F P" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="116" form="política" base="político" postag="ADJ" morf="F S" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="153" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="318" form="sociais" base="social" postag="ADJ" morf="F P" extra="jh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="180" form="possíveis" base="possível" postag="ADJ" morf="M P" extra="nh" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="222" form="precoce" base="precoce" postag="ADJ" morf="M S" extra="jh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="319" form="pública" base="público" postag="ADJ" morf="F S" extra="np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="127" form="grande" base="grande" postag="ADJ" morf="M S" extra="--" head="0" deprel=">N"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="273" form="amplo" base="amplo" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="190" form="jovens" base="jovem" postag="ADJ" morf="M/F P" extra="jh" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="115" form="científica" base="científico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="152" form="discursivas" base="discursivo" postag="ADJ" morf="F P" extra="nh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="238" form="quantitativa" base="quantitativo" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="360" form="científica" base="científico" postag="ADJ" morf="F S" extra="nh np-close" head="0" deprel="N<"/>

@@ -1,0 +1,2 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="185" form="tipo" base="tipo" postag="N" morf="M S" extra="meta ac-sign" head="0" deprel="<ACC"/>
+t000002 <word id="186" form="diferente" base="diferente" postag="ADJ" morf="M S" extra="nh np-close" head="0" deprel="N<"/>

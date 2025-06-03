@@ -1,0 +1,1 @@
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="163" form="bem" base="bem" postag="ADV" morf="--" extra="quant" head="0" deprel=">A"/>

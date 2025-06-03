@@ -1,0 +1,9 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="5" form="parou" base="parar" postag="V" morf="PS 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-QUE"/>
+t000001 <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000001 <word id="7" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="3" form="parou" base="parar" postag="V" morf="PS 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-QUE"/>
+t000002 <word id="4" form="pra" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000002 <word id="5" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="5" form="parou" base="parar" postag="V" morf="PS 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-QUE"/>
+t000004 <word id="6" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="ADVL"/>
+t000004 <word id="7" form="pensar" base="pensar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>

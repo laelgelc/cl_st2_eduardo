@@ -1,0 +1,11 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="185" form="confira" base="conferir" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="392" form="inscreva" base="inscrever" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="397" form="ative" base="ativar" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="47" form="existam" base="existir" postag="V" morf="PR 3P SUBJ VFIN" extra="mv" head="0" deprel="FS-ADVL>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="244" form="esqueça" base="esquecer" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="280" form="acesse" base="acessar" postag="V" morf="PR 3S SUBJ VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="320" form="inscreva-" base="inscrever" postag="V" morf="PR 3S SUBJ VFIN" extra="hyfen vH fmc mv" head="0" deprel="FS-STA"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="330" form="compartilhe" base="compartilhar" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="330" form="confira" base="conferir" postag="V" morf="PR 3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="344" form="esqueça" base="esquecer" postag="V" morf="PR 1/3S SUBJ VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="355" form="tenham" base="ter" postag="V" morf="PR 3P SUBJ VFIN" extra="mv" head="0" deprel="FS-P<"/>

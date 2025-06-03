@@ -1,0 +1,19 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="13" form="discutem" base="discutir" postag="V" morf="PR 3P IND VFIN" extra="vH mv" head="0" deprel="FS-P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="52" form="responder" base="responder" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="104" form="mencionado" base="mencionar" postag="V" morf="PCP M S" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="9" form="falam" base="falar" postag="V" morf="PR 3P IND VFIN" extra="vH mv" head="0" deprel="FS-<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="67" form="postados" base="postar" postag="V" morf="PCP M P" extra="vH np-close" head="0" deprel="N<PRED"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="238" form="censurar" base="censurar" postag="V" morf="FUT 3S SUBJ VFIN" extra="*1 *2 vH fmc mv np-close" head="0" deprel="FS-N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="22" form="refere" base="referir" postag="V" morf="PR 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="123" form="publicadas" base="publicar" postag="V" morf="PCP F P" extra="vH np-close" head="0" deprel="N<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="171" form="dizia" base="dizer" postag="V" morf="IMPF 3S IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="65" form="publicados" base="publicar" postag="V" morf="PCP M P" extra="vH np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="192" form="denunciam" base="denunciar" postag="V" morf="PR 3P IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="232" form="criticam" base="criticar" postag="V" morf="PR 3P IND VFIN" extra="vH mv" head="0" deprel="FS-<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="268" form="fala" base="falar" postag="V" morf="PR 3S IND VFIN" extra="vH mv" head="0" deprel="FS-<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="340" form="comunicamos" base="comunicar" postag="V" morf="PR 1P IND VFIN" extra="vH mv" head="0" deprel="FS-<ADVL"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="14" form="questionam" base="questionar" postag="V" morf="PR 3P IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="85" form="debatidos" base="debater" postag="V" morf="PCP M P" extra="vH mv np-close" head="0" deprel="ICL-N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="216" form="discute" base="discutir" postag="V" morf="PR 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="300" form="disseminam" base="disseminar" postag="V" morf="PR 3P IND VFIN" extra="fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="312" form="informadas" base="informar" postag="V" morf="PCP F P" extra="jh vH mv np-close" head="0" deprel="ICL-N<"/>

@@ -1,0 +1,2 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="274" form="nacionais" base="nacional" postag="ADJ" morf="M/F P" extra="np-close" head="0" deprel="N<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="120" form="internacionais" base="internacional" postag="ADJ" morf="M P" extra="nh np-close" head="0" deprel="N<"/>

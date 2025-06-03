@@ -1,0 +1,3 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="38" form="ajudar" base="ajudar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000002 <word id="39" form="a" base="a" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000002 <word id="40" form="entender" base="entender" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-P<"/>

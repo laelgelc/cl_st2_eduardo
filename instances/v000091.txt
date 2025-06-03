@@ -1,0 +1,8 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="37" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000002 <word id="38" form="ajudar" base="ajudar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="105" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="fmc aux" head="0" deprel="FS-STA"/>
+t000002 <word id="106" form="parecer" base="parecer" postag="V" morf="INF" extra="vK mv" head="0" deprel="ICL-AUX<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="312" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000002 <word id="313" form="revelar" base="revelar" postag="V" morf="INF" extra="mv" head="0" deprel="ICL-AUX<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="195" form="pode" base="poder" postag="V" morf="PR 3S IND VFIN" extra="aux" head="0" deprel="FS-<ACC"/>
+t000003 <word id="196" form="ganhar" base="ganhar" postag="V" morf="INF" extra="vH mv" head="0" deprel="ICL-AUX<"/>

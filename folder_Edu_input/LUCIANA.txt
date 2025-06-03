@@ -1,0 +1,6 @@
+Olá! Você já parou para pensar em como as redes sociais discutem o papel do Supremo Tribunal Federal? Durante a pandemia da COVID-19, o STF tomou decisões que impactaram milhões de brasileiros. Mas como essas decisões foram retratadas no Twitter?
+Nossa pesquisa buscou responder a essa pergunta analisando cerca de 89.000 tweets em português, coletados por meio de hashtags como covid19, stf, supremotribunal e ministros.
+Para entender os padrões presentes nesses discursos, utilizamos a Análise Lexical Multidimensional. Essa metodologia nos permitiu identificar seis principais dimensões discursivas que representam diferentes formas como o STF foi mencionado.
+Essas dimensões refletem diferentes narrativas presentes na rede. Algumas destacam o apoio ou a crítica ao STF, enquanto outras abordam questões institucionais e debates sobre constitucionalidade.
+Ao analisar essas tendências, nossa pesquisa contribui para a compreensão do debate público sobre o STF e como as decisões da Corte foram percebidas no contexto da pandemia.
+Se você quer saber mais sobre o estudo e os métodos utilizados, confira a descrição do vídeo para acessar a pesquisa completa. Obrigado por assistir e até a próxima!

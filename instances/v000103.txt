@@ -1,0 +1,2 @@
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="215" form="campo" base="campo" postag="N" morf="M S" extra="L" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="315" form="campo" base="campo" postag="N" morf="M S" extra="L" head="0" deprel="P<"/>

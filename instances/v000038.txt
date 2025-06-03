@@ -1,0 +1,1 @@
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="109" form="aqui" base="aqui" postag="ADV" morf="--" extra="--" head="0" deprel="<ADVL"/>

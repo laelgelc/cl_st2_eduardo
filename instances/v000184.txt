@@ -1,0 +1,6 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="90" form="permitiu" base="permitir" postag="V" morf="PS 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="197" form="Obrigado" base="obrigar" postag="V" morf="PCP M S" extra="* jh" head="0" deprel="NPHR"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="97" form="permite" base="permitir" postag="V" morf="PR 3S IND VFIN" extra="vH mv np-close" head="0" deprel="FS-N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="161" form="permitiu" base="permitir" postag="V" morf="PS 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="287" form="Obrigado" base="obrigar" postag="V" morf="PCP M S" extra="* jh" head="0" deprel="NPHR"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="233" form="permitiu" base="permitir" postag="V" morf="PS 3S IND VFIN" extra="vH fmc mv" head="0" deprel="FS-STA"/>

@@ -1,0 +1,53 @@
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="18" form="Supremo" base="supremo" postag="ADJ" morf="M S" extra="prop n prop1 * jh" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="19" form="Tribunal" base="Tribunal" postag="PROP" morf="M S" extra="site *" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="20" form="Federal" base="Federal" postag="PROP" morf="F/M S" extra="hum newlex * np-close" head="0" deprel="N<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="27" form="COVID-19" base="COVID-19" postag="PROP" morf="F S/P" extra="brand *" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="30" form="STF" base="STF" postag="PROP" morf="M S" extra="inst *" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="47" form="Twitter" base="Twitter" postag="PROP" morf="M S" extra="inst * heur" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="85" form="Análise_Lexical_Multidimensional" base="Análise_Lexical_Multidimensional" postag="PROP" morf="F S" extra="org *" head="0" deprel="<ACC"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="102" form="STF" base="STF" postag="PROP" morf="M S" extra="inst *" head="0" deprel="SUBJ>"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="125" form="STF" base="STF" postag="PROP" morf="M S" extra="inst *" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="155" form="STF" base="STF" postag="PROP" morf="M S" extra="inst *" head="0" deprel="P<"/>
+t000001 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/LUCIANA.txt.tagged: <word id="162" form="Corte" base="corte" postag="N" morf="F S" extra="prop * inst" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="46" form="X" base="x" postag="N" morf="M S" extra="prop * ac-sign" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="51" form="Twitter" base="Twitter" postag="PROP" morf="F S" extra="media * heur np-close" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="69" form="entre" base="entre" postag="PRP" morf="--" extra="prop1 np-close" head="0" deprel="<ADVL"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="71" form="e" base="e" postag="KC" morf="--" extra="prop2" head="0" deprel="CO"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="101" form="Análise_Multidimensional_Lexical" base="Análise_Multidimensional_Lexical" postag="PROP" morf="F S" extra="hum * np-long" head="0" deprel="<ACC"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="150" form="Análise_Fatorial" base="Análise_Fatorial" postag="PROP" morf="F S" extra="hum * np-long" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="251" form="STF" base="STF" postag="PROP" morf="M S" extra="inst * np-long" head="0" deprel="N<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="283" form="Deus" base="Deus" postag="PROP" morf="M S" extra="hum asarg * *1 *2" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="292" form="Deus" base="Deus" postag="PROP" morf="M S" extra="hum asarg *" head="0" deprel="P<"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="294" form="Pátria" base="Pátria" postag="PROP" morf="M/F S" extra="hum *" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="296" form="SOS_Forças" base="SOS_Forças" postag="PROP" morf="M S" extra="org *" head="0" deprel="SUBJ>"/>
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="297" form="Armadas" base="armar" postag="V" morf="PCP F P" extra="prop * vH np-close" head="0" deprel="N<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="62" form="COVID-19" base="COVID-19" postag="PROP" morf="M/F S/P" extra="brand *" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="102" form="Twitter" base="Twitter" postag="PROP" morf="M S" extra="inst * heur" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="104" form="X" base="X" postag="ADJ" morf="M/F S" extra="prop * NUM-ord jh" head="0" deprel="<PRED"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="112" form="Brasil" base="Brasil" postag="PROP" morf="M S" extra="civ *" head="0" deprel="P<"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="124" form="entre" base="entre" postag="PRP" morf="--" extra="prop1" head="0" deprel="<ADVL"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="126" form="e" base="e" postag="KC" morf="--" extra="prop2" head="0" deprel="CO"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="41" form="China" base="China" postag="PROP" morf="F S" extra="civ newlex *" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="52" form="COVID-19" base="COVID-19" postag="PROP" morf="M/F S/P" extra="brand *" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="66" form="entre" base="entre" postag="PRP" morf="--" extra="prop1 np-long" head="0" deprel="N<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="68" form="e" base="e" postag="KC" morf="--" extra="prop2" head="0" deprel="CO"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="80" form="China" base="China" postag="PROP" morf="F S" extra="civ newlex *" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="94" form="Análise_Multidimensional" base="Análise_Multidimensional" postag="PROP" morf="F S" extra="org *" head="0" deprel="<SC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="211" form="China" base="China" postag="PROP" morf="F S" extra="civ newlex *" head="0" deprel="<ACC"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="226" form="China" base="China" postag="PROP" morf="F S" extra="civ newlex *" head="0" deprel="P<"/>
+t000004 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CICERO.txt.tagged: <word id="264" form="China" base="China" postag="PROP" morf="F S" extra="civ newlex *" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="46" form="Brasil" base="Brasil" postag="PROP" morf="M S" extra="civ *" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="51" form="COVID-19" base="COVID-19" postag="PROP" morf="M/F S/P" extra="brand *" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="90" form="Twitter" base="Twitter" postag="PROP" morf="M S" extra="inst * heur" head="0" deprel="P<"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="201" form="Emojis" base="Emojis" postag="PROP" morf="F S" extra="tit * heur" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="53" form="Programa_Nacional_de_Imunizações" base="Programa_Nacional_de_Imunizações" postag="PROP" morf="M S" extra="tit *" head="0" deprel="SUBJ>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="73" form="Covid-19" base="Covid-19" postag="PROP" morf="M/F S" extra="top * heur" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="106" form="Twitter" base="Twitter" postag="PROP" morf="M S" extra="tit * heur np-close" head="0" deprel="N<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="111" form="X." base="X." postag="PROP" morf="M/F S" extra="hum prop1 *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="112" form="Utilizamos" base="utilizar" postag="V" morf="PR 1P IND VFIN" extra="prop2 * vH fmc mv" head="0" deprel="FS-STA"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="119" form="Linguística_de_Corpus" base="Linguística_de_Corpus" postag="PROP" morf="F S" extra="org *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="123" form="Análise_do_Discurso" base="Análise_do_Discurso" postag="PROP" morf="F S" extra="org *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="163" form="Brasil" base="Brasil" postag="PROP" morf="M S" extra="civ *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="262" form="Linguística_de_Corpus" base="Linguística_de_Corpus" postag="PROP" morf="F S" extra="org *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="268" form="Análise_do_Discurso" base="Análise_do_Discurso" postag="PROP" morf="F S" extra="org *" head="0" deprel="P<"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="291" form="Brasil" base="Brasil" postag="PROP" morf="M S" extra="civ *" head="0" deprel="P<"/>

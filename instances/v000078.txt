@@ -1,0 +1,2 @@
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="351" form="para" base="para" postag="PRP" morf="--" extra="--" head="0" deprel="<ADVL"/>
+t000006 <word id="352" form="que" base="que" postag="KS" morf="--" extra="clb clb-fs" head="0" deprel="SUB"/>

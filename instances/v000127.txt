@@ -1,0 +1,15 @@
+t000002 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/ANDRE.txt.tagged: <word id="391" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="21" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="201" form="se" base="se" postag="PERS" morf="M/F 3S/P ACC" extra="refl" head="0" deprel="ACC>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="234" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="243" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+t000003 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/CARLOS.txt.tagged: <word id="250" form="se" base="se" postag="PERS" morf="M/F 3S/P ACC" extra="refl" head="0" deprel="ACC>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="131" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="189" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="294" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="310" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="321" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="<ACC"/>
+t000005 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/YARA.txt.tagged: <word id="335" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="67" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="--" head="0" deprel="ACC>-PASS"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="175" form="O" base="ele" postag="PERS" morf="M 3S ACC" extra="*" head="0" deprel="ACC>"/>
+t000006 /Users/carloskauffmann/lab/edu_divulg_cientifica/tagged/MIRELLA.txt.tagged: <word id="343" form="se" base="se" postag="PERS" morf="M/F 3S ACC" extra="refl" head="0" deprel="ACC>"/>

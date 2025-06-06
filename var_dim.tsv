@@ -29,7 +29,7 @@ v000061	clpassless	cl.agentless_passive.clpassless	1.95	2.38
 v000062	clinfadj	cl.infinitive_clause_controlled_adjective.clinfadj	0.58	1.06
 v000065	clinfadjease	cl.infinitive_clause_controlled_adjective_ease_difficulty.clinfadjease	0.23	0.62
 v000068	clinfprp	cl.infinitive_clause_controlled_preposition.clinfprp	9.1	4.66
-v000072	adjque	cl.que_adjective_complement_clause.adjque	8.96	4.97
+v000072	adjque	cl.que_adjective_complement_clause.adjque	1.24	1.28
 v000077	clqueeadv	cl.que_clause_controlled_adverb.clqueeadv	0.53	1.25
 v000078	clqueeprp	cl.que_clause_controlled_preposition.clqueeprp	1.05	1.28
 v000080	nounque	cl.que_noun_complement_clause.nounque	5.85	3.63
